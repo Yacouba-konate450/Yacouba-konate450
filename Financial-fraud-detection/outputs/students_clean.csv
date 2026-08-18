@@ -1,0 +1,1201 @@
+student_id,gender,major,study_hours_per_week,attendance_rate,prior_gpa,extracurricular_activities,part_time_job,final_gpa
+STU00549,M,Economics,6.9,78.7,2.68,1,1,1.55
+STU00283,M,Electrical Engineering,5.3,82.0,2.79,1,1,1.83
+STU00517,F,Economics,13.6,77.5,2.96,1,0,2.35
+STU00390,F,Electrical Engineering,10.4,81.3,2.81,0,1,1.79
+STU01122,F,Computer Engineering,2.8,100.0,2.99,1,0,2.16
+STU00308,M,Economics,7.4,61.9,4.0,0,0,2.63
+STU00874,F,Business Administration,2.4,92.2,2.77,1,0,2.28
+STU00464,M,Computer Engineering,11.9,92.4,2.49,0,0,2.62
+STU01073,F,Economics,3.0,81.4,2.89,1,1,1.78
+STU00697,F,Computer Engineering,5.5,75.8,2.56,0,1,1.65
+STU00581,M,Economics,5.3,82.0,2.79,0,0,2.35
+STU00011,F,Electrical Engineering,5.2,90.4,1.88,1,0,1.84
+STU00102,F,Mathematics,4.5,64.4,3.29,1,1,2.12
+STU00905,M,Economics,3.1,57.7,1.8,1,0,1.86
+STU00463,F,Business Administration,14.6,58.5,2.99,0,0,1.98
+STU00669,M,Data Science,4.4,73.8,2.88,0,0,2.15
+STU00362,M,Economics,2.4,65.2,2.98,1,0,1.59
+STU00628,F,Data Science,5.0,100.0,4.0,0,0,2.12
+STU00476,F,Data Science,3.7,73.5,2.72,1,0,1.97
+STU00985,M,Economics,8.3,100.0,2.53,0,1,2.68
+STU00312,M,Economics,18.5,54.1,1.19,0,0,1.83
+STU00724,F,Data Science,1.4,83.7,2.04,0,1,1.3
+STU01173,M,Mathematics,0.9,98.5,2.98,1,0,1.58
+STU01066,F,Data Science,7.8,100.0,3.13,0,1,2.19
+STU00015,F,Business Administration,1.6,80.3,2.35,1,1,1.3
+STU00433,M,Computer Engineering,4.1,90.5,3.04,1,0,2.03
+STU00106,M,Economics,1.0,64.4,2.68,0,0,1.41
+STU00034,F,Economics,2.9,81.0,3.1,1,0,2.16
+STU00866,F,Electrical Engineering,5.2,65.7,2.7,1,1,1.77
+STU01067,M,Computer Engineering,3.1,76.9,3.97,0,1,2.08
+STU00268,M,Economics,8.9,78.0,3.11,1,1,2.0
+STU01109,M,Mathematics,4.7,79.3,2.67,0,0,2.19
+STU00166,M,Electrical Engineering,9.4,93.0,2.77,1,1,2.35
+STU00040,M,Electrical Engineering,8.1,62.5,3.74,0,0,2.27
+STU00753,M,Business Administration,4.7,85.1,2.16,1,1,1.75
+STU00890,F,Data Science,18.1,68.3,2.06,1,0,1.96
+STU01091,F,Computer Engineering,3.0,75.0,2.62,0,0,1.79
+STU01153,M,Electrical Engineering,1.3,75.3,3.58,1,0,2.62
+STU00338,M,Electrical Engineering,4.0,88.2,2.3,0,1,1.64
+STU00354,F,Electrical Engineering,4.0,89.3,3.42,0,0,2.63
+STU00594,F,Business Administration,5.8,100.0,2.33,1,0,2.02
+STU00649,M,Electrical Engineering,8.2,92.7,2.37,1,0,1.96
+STU00207,M,Economics,5.7,82.0,2.86,1,0,2.33
+STU00449,F,Economics,1.0,82.1,2.48,0,0,1.68
+STU00559,F,Economics,5.9,72.9,1.94,1,0,2.28
+STU00926,F,Computer Engineering,3.6,83.1,3.73,0,0,1.94
+STU00292,F,Computer Engineering,3.2,84.1,2.26,1,0,1.7
+STU00334,F,Electrical Engineering,4.5,95.4,2.85,1,0,2.49
+STU00220,M,Computer Engineering,5.3,82.0,2.79,0,0,2.67
+STU00431,F,Business Administration,6.9,100.0,2.92,1,0,2.56
+STU00664,F,Electrical Engineering,5.3,82.0,2.79,1,0,2.19
+STU00534,M,Computer Engineering,9.6,50.3,2.64,1,0,1.63
+STU00404,F,Economics,8.3,81.6,2.63,1,0,2.36
+STU00068,F,Computer Engineering,6.3,100.0,3.1,0,0,2.2
+STU00003,M,Electrical Engineering,9.4,92.9,3.18,0,1,2.53
+STU00299,M,Electrical Engineering,2.6,100.0,2.07,0,1,1.72
+STU00419,F,Electrical Engineering,5.2,95.4,2.29,0,0,2.17
+STU00958,F,Economics,6.0,96.0,2.08,1,0,1.74
+STU00982,F,Business Administration,1.2,84.9,2.57,1,1,1.85
+STU01162,M,Business Administration,10.6,79.2,2.17,1,1,1.86
+STU00156,M,Economics,4.1,72.0,2.19,1,1,1.38
+STU00817,F,Mathematics,5.3,82.0,2.79,0,0,2.64
+STU00149,M,Business Administration,11.7,98.0,3.39,0,1,3.36
+STU00032,F,Business Administration,1.2,100.0,1.75,0,0,1.8
+STU00234,M,Electrical Engineering,3.6,63.5,3.11,0,1,1.4
+STU00434,F,Business Administration,4.3,86.0,2.18,1,0,1.8
+STU01100,M,Computer Engineering,5.7,52.7,3.74,0,0,2.19
+STU01197,M,Business Administration,2.4,78.4,3.32,0,0,2.37
+STU00688,F,Business Administration,4.7,77.9,3.2,0,0,2.16
+STU00714,M,Data Science,4.3,84.7,3.49,1,1,2.4
+STU00366,F,Economics,3.4,57.5,2.51,0,0,2.02
+STU01012,F,Data Science,6.2,78.6,3.39,0,0,1.92
+STU00254,F,Electrical Engineering,3.3,78.5,2.43,0,1,1.84
+STU00288,F,Economics,4.6,88.9,2.59,0,1,1.8
+STU00610,F,Mathematics,2.1,92.0,2.48,0,0,1.61
+STU00883,M,Electrical Engineering,10.0,86.5,2.33,0,1,2.2
+STU00509,F,Computer Engineering,13.2,100.0,2.48,0,1,3.0
+STU00217,F,Business Administration,5.9,66.6,2.78,1,1,1.78
+STU00684,M,Data Science,14.0,81.3,3.61,1,0,3.49
+STU00687,F,Computer Engineering,8.9,86.9,3.11,0,0,3.3
+STU00176,F,Business Administration,2.3,100.0,3.02,0,0,2.7
+STU00941,M,Computer Engineering,2.2,96.4,2.53,0,1,2.01
+STU01194,F,Business Administration,12.0,95.6,2.04,0,0,2.42
+STU00968,F,Mathematics,2.1,82.9,3.99,0,1,1.93
+STU00589,F,Business Administration,5.3,82.0,2.79,0,0,1.62
+STU00050,F,Computer Engineering,5.2,78.6,2.85,0,0,2.13
+STU00556,F,Computer Engineering,6.8,93.9,2.05,1,1,1.44
+STU00117,F,Electrical Engineering,4.4,100.0,3.08,0,0,2.84
+STU01096,F,Mathematics,7.9,84.5,3.34,1,0,2.93
+STU00347,M,Business Administration,11.6,71.2,2.6,0,1,1.84
+STU00028,M,Data Science,7.1,100.0,3.64,1,0,2.97
+STU00833,M,Mathematics,2.2,67.2,2.55,1,1,1.2
+STU00635,F,Electrical Engineering,4.5,93.9,3.55,1,1,2.44
+STU00023,M,Data Science,6.3,61.4,2.58,0,1,1.63
+STU00975,F,Computer Engineering,8.7,99.8,2.37,0,0,2.38
+STU00444,F,Data Science,6.1,73.7,3.12,0,0,1.97
+STU00611,M,Mathematics,2.9,100.0,2.23,1,0,2.39
+STU00136,F,Economics,5.4,82.9,2.97,1,1,1.83
+STU00703,M,Business Administration,4.3,62.5,2.47,0,0,1.59
+STU01030,F,Economics,4.6,65.2,3.1,1,0,1.66
+STU00392,M,Data Science,3.9,86.8,3.2,1,0,1.98
+STU00269,F,Electrical Engineering,4.0,72.6,3.01,1,1,2.06
+STU00809,M,Electrical Engineering,3.7,81.3,2.94,0,1,1.96
+STU00813,M,Business Administration,12.6,69.2,3.65,1,1,2.43
+STU01026,M,Business Administration,9.1,100.0,2.7,1,0,2.65
+STU00965,F,Computer Engineering,2.1,78.4,2.49,0,0,1.35
+STU01098,F,Computer Engineering,1.6,87.7,3.08,0,0,2.65
+STU00470,F,Computer Engineering,6.0,100.0,2.91,0,0,2.01
+STU00568,M,Electrical Engineering,5.3,82.0,2.79,0,0,1.27
+STU00515,F,Economics,7.0,78.9,3.17,0,0,2.55
+STU00831,F,Business Administration,5.3,82.0,2.79,1,0,1.8
+STU00661,F,Computer Engineering,6.9,75.7,2.67,1,0,1.65
+STU00344,F,Data Science,7.4,95.7,3.0,0,0,2.68
+STU00595,M,Mathematics,11.1,82.7,3.38,0,0,1.91
+STU00159,F,Economics,5.3,82.0,2.79,0,0,1.21
+STU01080,M,Mathematics,6.0,82.4,2.91,1,0,1.95
+STU00759,F,Mathematics,6.5,100.0,3.29,1,0,2.39
+STU00085,M,Data Science,1.7,60.6,2.17,1,1,1.19
+STU00908,M,Business Administration,6.1,74.0,3.84,1,1,2.48
+STU01161,F,Business Administration,9.5,84.3,2.49,0,0,2.2
+STU00165,M,Computer Engineering,4.1,75.8,2.57,1,0,1.82
+STU00072,F,Data Science,6.0,91.2,3.17,1,0,2.3
+STU00894,F,Business Administration,6.9,89.4,2.17,0,1,1.39
+STU00521,M,Mathematics,8.2,97.7,3.07,0,0,3.13
+STU01097,M,Electrical Engineering,9.3,55.5,2.16,0,1,1.72
+STU00305,M,Electrical Engineering,4.8,63.4,3.2,1,0,1.94
+STU01023,M,Business Administration,1.4,70.4,2.78,0,0,1.81
+STU01103,F,Computer Engineering,4.5,93.7,2.2,1,0,2.33
+STU00795,M,Economics,3.7,96.8,2.15,1,0,1.12
+STU00293,F,Economics,10.9,87.0,3.37,1,0,2.77
+STU01189,F,Electrical Engineering,7.3,75.2,2.76,1,0,2.5
+STU01087,M,Data Science,11.9,75.3,1.72,0,0,2.18
+STU00035,F,Business Administration,4.4,62.2,3.53,0,1,1.84
+STU00769,M,Mathematics,8.5,69.6,2.24,1,0,2.03
+STU00787,F,Data Science,3.0,100.0,2.01,0,0,1.58
+STU01084,F,Electrical Engineering,10.2,63.0,3.09,0,0,1.83
+STU00139,F,Electrical Engineering,4.8,100.0,2.98,0,0,2.41
+STU00741,M,Computer Engineering,2.3,83.5,2.95,1,1,1.81
+STU00059,M,Computer Engineering,9.6,76.3,2.4,0,0,2.11
+STU00286,F,Data Science,1.4,95.3,3.52,0,0,1.81
+STU01143,M,Electrical Engineering,7.1,100.0,3.17,1,0,2.17
+STU00343,M,Data Science,2.0,73.0,2.28,0,1,1.36
+STU00608,F,Mathematics,8.1,69.8,2.53,0,0,1.84
+STU00475,M,Business Administration,3.3,100.0,2.86,1,0,2.49
+STU00683,M,Business Administration,5.3,82.0,2.79,0,1,1.34
+STU00246,F,Data Science,4.1,66.6,2.22,1,0,1.96
+STU00202,F,Mathematics,9.3,67.1,2.25,1,0,1.26
+STU01190,F,Business Administration,4.4,61.5,2.13,1,0,1.3
+STU00870,M,Electrical Engineering,29.3,83.1,2.23,1,0,3.21
+STU00934,M,Data Science,4.6,100.0,2.58,1,0,2.36
+STU00007,F,Business Administration,7.4,100.0,3.04,0,0,3.12
+STU00575,F,Economics,8.2,76.0,3.63,0,0,2.56
+STU00625,F,Business Administration,4.8,100.0,2.64,0,1,1.83
+STU00542,F,Mathematics,5.5,74.3,3.45,1,0,1.9
+STU01011,M,Electrical Engineering,7.0,92.6,3.02,0,0,2.29
+STU00626,F,Business Administration,5.8,100.0,2.83,1,0,3.02
+STU00774,F,Business Administration,6.2,93.2,2.83,1,0,1.95
+STU00739,M,Business Administration,9.3,80.2,3.67,0,1,2.05
+STU00326,M,Data Science,4.2,79.1,2.55,1,0,1.97
+STU00665,M,Electrical Engineering,9.7,86.2,2.86,0,0,2.55
+STU00805,F,Computer Engineering,6.5,100.0,2.32,0,0,2.7
+STU00656,F,Computer Engineering,4.8,100.0,1.98,1,0,2.22
+STU01038,F,Mathematics,16.7,82.8,2.71,1,0,2.76
+STU00654,F,Business Administration,6.0,91.8,1.45,0,0,1.38
+STU00436,M,Electrical Engineering,4.1,81.9,2.96,0,1,1.86
+STU00258,M,Mathematics,4.3,100.0,3.88,0,1,3.24
+STU00969,M,Electrical Engineering,6.3,89.0,3.47,0,0,3.06
+STU01140,M,Mathematics,4.4,59.0,3.01,1,1,1.73
+STU00586,M,Economics,5.4,48.4,3.86,1,0,2.6
+STU00095,M,Mathematics,9.1,72.2,2.72,0,0,2.41
+STU01130,F,Economics,2.6,96.2,3.59,0,1,2.22
+STU00764,F,Business Administration,3.8,85.7,1.1,0,1,1.41
+STU00501,M,Data Science,8.3,79.6,2.81,0,0,2.27
+STU00989,F,Business Administration,4.4,86.3,2.49,1,0,1.68
+STU00552,F,Computer Engineering,4.2,100.0,3.14,1,0,2.67
+STU00682,F,Computer Engineering,12.1,81.2,2.61,1,1,2.02
+STU01144,M,Business Administration,8.0,60.5,3.35,0,0,1.85
+STU00548,F,Economics,5.3,82.0,2.79,1,0,1.8
+STU00250,M,Computer Engineering,6.9,79.5,2.98,0,0,2.21
+STU00690,M,Data Science,13.4,96.0,2.44,0,1,2.02
+STU00907,F,Computer Engineering,7.5,83.4,3.57,0,0,2.15
+STU00990,M,Mathematics,8.0,95.6,2.82,1,0,2.72
+STU00564,M,Economics,8.3,92.7,2.42,0,1,2.07
+STU00579,M,Electrical Engineering,8.0,72.9,3.02,1,0,1.79
+STU01007,F,Economics,6.4,89.2,2.65,0,0,2.32
+STU00613,F,Computer Engineering,6.2,75.4,3.9,0,0,2.9
+STU00997,M,Electrical Engineering,4.0,69.3,2.95,1,0,1.95
+STU00766,F,Electrical Engineering,1.3,74.4,1.32,0,0,1.15
+STU00691,F,Computer Engineering,3.1,72.7,2.45,0,0,1.82
+STU01176,F,Economics,9.4,76.0,3.12,0,0,2.49
+STU00590,F,Mathematics,2.7,75.2,2.79,0,1,1.51
+STU00929,F,Mathematics,3.2,100.0,4.0,0,0,2.61
+STU00637,M,Economics,6.5,55.4,2.64,1,1,2.37
+STU00424,F,Business Administration,6.1,99.1,2.67,0,0,2.16
+STU00406,F,Data Science,8.8,97.0,2.72,0,0,2.42
+STU01160,M,Mathematics,2.5,100.0,3.63,0,0,2.53
+STU00615,M,Mathematics,3.9,68.3,3.39,0,0,2.34
+STU00829,F,Computer Engineering,4.0,64.3,3.07,1,0,1.77
+STU01052,M,Computer Engineering,1.5,63.0,3.81,0,1,2.29
+STU01070,M,Computer Engineering,5.3,82.0,2.79,0,1,1.91
+STU00780,M,Data Science,6.8,74.5,3.02,0,0,1.89
+STU00445,F,Business Administration,3.2,64.6,2.26,0,1,2.5
+STU00201,M,Electrical Engineering,7.7,100.0,1.62,0,1,1.58
+STU00300,F,Electrical Engineering,4.4,77.7,2.8,1,0,2.21
+STU00701,F,Mathematics,7.1,91.9,3.73,0,1,2.07
+STU00208,M,Electrical Engineering,13.5,75.9,2.47,1,0,2.94
+STU00912,M,Economics,5.9,75.6,1.86,0,0,1.45
+STU00438,M,Computer Engineering,1.8,76.0,2.15,1,1,2.05
+STU00060,M,Electrical Engineering,7.4,98.0,1.78,1,0,1.67
+STU00634,M,Computer Engineering,1.4,72.0,3.54,0,0,2.08
+STU00012,F,Economics,1.9,77.5,2.35,1,0,1.82
+STU01076,M,Computer Engineering,10.6,89.2,2.93,0,1,2.37
+STU00822,F,Electrical Engineering,3.4,92.3,3.56,0,0,2.01
+STU00295,M,Mathematics,7.3,92.4,1.61,0,1,1.69
+STU00316,M,Data Science,5.6,94.1,2.93,1,1,2.06
+STU00720,M,Data Science,6.0,38.4,2.08,1,1,1.15
+STU00349,F,Business Administration,4.9,73.3,3.01,0,1,1.92
+STU00924,F,Electrical Engineering,4.7,88.5,3.24,1,0,2.71
+STU00057,M,Business Administration,13.1,77.6,3.01,1,0,2.93
+STU00370,M,Economics,5.5,72.1,1.71,1,1,1.91
+STU00858,F,Electrical Engineering,5.7,93.3,2.39,1,0,2.13
+STU00071,M,Computer Engineering,3.8,65.9,2.93,1,1,1.7
+STU01148,M,Data Science,8.2,77.4,3.65,0,1,2.05
+STU01193,F,Economics,11.8,86.3,3.59,0,0,2.4
+STU00097,F,Data Science,7.4,74.3,3.11,1,0,2.63
+STU00736,F,Business Administration,3.8,57.1,3.07,1,0,1.95
+STU00711,F,Business Administration,3.4,80.7,3.15,0,1,2.08
+STU00599,F,Mathematics,12.1,83.0,2.86,1,0,2.28
+STU01138,M,Electrical Engineering,3.0,51.1,1.98,0,0,0.85
+STU00121,M,Mathematics,5.5,63.8,3.39,1,0,2.61
+STU00132,M,Mathematics,10.1,75.9,3.42,1,1,2.44
+STU00236,F,Business Administration,0.4,87.1,3.15,0,0,2.45
+STU00162,M,Economics,2.5,100.0,1.45,0,0,1.74
+STU00775,M,Electrical Engineering,11.3,70.5,2.71,0,1,2.35
+STU00317,M,Electrical Engineering,10.8,54.4,3.03,0,1,1.62
+STU00235,F,Electrical Engineering,7.1,75.8,3.38,1,0,2.71
+STU00733,M,Computer Engineering,7.5,87.3,2.92,1,0,2.51
+STU00439,F,Mathematics,6.9,88.5,2.51,0,0,2.18
+STU00604,M,Data Science,7.4,70.4,2.54,0,1,1.82
+STU00033,M,Business Administration,4.2,92.3,3.15,0,0,2.46
+STU00045,F,Economics,4.4,90.9,2.18,1,0,2.3
+STU00574,F,Business Administration,2.7,94.5,2.57,1,1,2.13
+STU00567,F,Data Science,2.1,96.8,1.74,1,0,1.48
+STU00267,M,Business Administration,9.7,74.6,2.59,1,0,1.96
+STU00763,M,Mathematics,2.3,71.0,2.79,0,1,1.37
+STU00600,M,Economics,4.6,99.6,3.52,0,0,2.6
+STU01139,F,Electrical Engineering,0.3,98.4,2.44,1,1,2.14
+STU00199,M,Economics,4.7,84.9,3.53,1,0,2.0
+STU01171,F,Data Science,6.8,71.1,3.09,1,0,2.51
+STU00644,M,Electrical Engineering,1.7,73.8,2.54,1,1,1.8
+STU00416,M,Data Science,6.3,87.3,2.53,1,0,1.92
+STU00492,F,Electrical Engineering,3.7,81.8,2.5,1,1,1.86
+STU00051,M,Economics,4.3,100.0,1.8,0,0,1.55
+STU00672,M,Data Science,5.9,98.4,3.42,1,0,2.79
+STU00655,F,Computer Engineering,3.7,84.0,3.15,0,0,2.56
+STU01009,F,Economics,3.7,71.8,2.74,0,0,2.1
+STU00319,M,Computer Engineering,10.7,71.9,2.94,1,0,2.26
+STU00131,M,Data Science,6.7,100.0,3.14,0,0,1.91
+STU00423,F,Electrical Engineering,8.3,77.4,2.79,1,1,1.77
+STU01079,F,Business Administration,6.9,77.6,3.54,1,0,2.3
+STU00086,F,Electrical Engineering,8.2,94.1,2.74,0,0,1.82
+STU01042,F,Computer Engineering,1.1,66.8,2.61,0,0,2.23
+STU00196,M,Mathematics,14.8,97.1,2.48,1,0,2.74
+STU00355,F,Data Science,7.4,74.6,2.47,1,0,1.73
+STU01049,M,Business Administration,3.1,73.6,1.84,1,1,1.63
+STU01093,F,Mathematics,1.6,87.5,1.25,0,0,1.07
+STU01045,M,Business Administration,2.2,69.0,2.14,1,1,1.52
+STU00520,M,Computer Engineering,3.9,100.0,3.2,1,1,2.49
+STU00514,F,Electrical Engineering,9.7,87.0,2.72,0,0,2.41
+STU00834,F,Economics,5.7,68.9,2.86,0,0,1.55
+STU00232,F,Mathematics,1.7,97.1,3.05,0,1,1.76
+STU01001,F,Computer Engineering,3.6,82.7,2.73,0,0,2.24
+STU01182,F,Economics,6.2,69.1,2.58,1,0,2.2
+STU00341,M,Electrical Engineering,8.1,93.9,3.0,0,1,1.91
+STU01063,M,Computer Engineering,10.1,70.0,1.43,0,1,1.93
+STU00800,F,Business Administration,3.6,90.6,2.3,0,1,2.03
+STU00230,F,Economics,10.9,86.4,3.34,0,0,3.1
+STU00550,M,Computer Engineering,3.3,91.9,2.85,0,0,2.08
+STU00748,M,Computer Engineering,2.9,94.3,2.46,0,1,1.73
+STU01111,F,Electrical Engineering,1.4,66.2,2.62,1,1,1.67
+STU00961,F,Business Administration,4.1,61.9,4.0,1,1,2.04
+STU00783,F,Business Administration,2.5,78.4,1.98,1,0,1.58
+STU01082,F,Data Science,3.5,52.0,2.6,1,0,1.4
+STU00554,F,Economics,10.8,93.3,2.52,0,0,2.51
+STU01017,M,Data Science,6.0,61.5,3.38,0,0,2.15
+STU00533,M,Electrical Engineering,9.6,100.0,2.49,1,0,2.2
+STU00426,F,Business Administration,5.5,100.0,3.18,1,0,2.93
+STU00441,F,Business Administration,3.0,100.0,3.07,1,0,2.24
+STU00013,M,Computer Engineering,9.5,75.6,2.81,0,1,1.95
+STU00978,F,Economics,5.9,58.9,3.3,0,1,2.18
+STU00886,F,Business Administration,4.6,81.7,2.99,0,1,2.8
+STU00352,M,Computer Engineering,6.1,91.0,2.41,0,1,1.67
+STU00400,M,Computer Engineering,8.3,66.1,3.21,0,0,1.72
+STU00698,F,Business Administration,9.8,80.1,2.5,1,1,1.79
+STU00148,F,Electrical Engineering,6.7,87.9,2.91,1,1,2.37
+STU00531,F,Computer Engineering,2.8,98.6,2.24,0,1,1.43
+STU00279,M,Computer Engineering,12.0,89.1,3.02,1,0,2.28
+STU00782,F,Data Science,1.8,52.9,2.56,0,0,1.59
+STU00847,F,Business Administration,6.0,87.4,3.39,1,1,2.21
+STU00826,M,Mathematics,0.8,58.5,2.61,0,0,1.71
+STU00964,F,Electrical Engineering,4.9,97.4,2.91,0,0,2.14
+STU01071,F,Data Science,18.1,76.6,3.17,1,1,3.12
+STU00482,M,Data Science,6.4,76.3,2.32,0,1,1.71
+STU01124,F,Computer Engineering,5.8,67.2,1.42,1,1,1.27
+STU00525,M,Computer Engineering,7.9,88.6,3.32,1,0,1.87
+STU00993,F,Electrical Engineering,1.9,89.9,3.24,1,0,1.72
+STU00652,M,Economics,7.7,100.0,2.71,1,0,2.21
+STU00591,M,Data Science,4.3,69.5,3.67,0,1,1.91
+STU00859,M,Business Administration,4.3,78.1,3.09,0,0,1.98
+STU01127,M,Computer Engineering,1.8,87.7,3.21,0,1,1.85
+STU00505,M,Computer Engineering,6.8,89.2,3.07,0,0,2.04
+STU00932,F,Computer Engineering,11.1,67.3,2.52,0,1,1.75
+STU00203,M,Electrical Engineering,3.5,100.0,2.61,1,0,1.41
+STU00443,M,Computer Engineering,4.9,95.7,3.4,1,0,2.72
+STU00284,M,Economics,6.4,75.5,3.04,0,0,2.03
+STU00839,M,Data Science,9.7,63.1,2.49,0,0,2.29
+STU00335,M,Computer Engineering,5.3,82.0,2.79,1,0,2.64
+STU00657,F,Data Science,2.5,55.0,2.73,0,1,1.4
+STU00909,M,Computer Engineering,3.3,71.7,3.23,0,0,2.5
+STU01081,M,Mathematics,3.5,82.8,3.9,0,0,2.41
+STU00008,M,Data Science,5.7,77.9,2.84,1,0,1.94
+STU00412,M,Data Science,2.7,68.8,2.47,1,0,1.95
+STU00708,M,Mathematics,5.3,82.0,2.79,0,0,1.95
+STU00213,M,Mathematics,4.4,79.5,2.96,0,0,2.02
+STU01047,M,Economics,1.8,70.2,2.58,0,0,1.68
+STU00798,M,Business Administration,6.7,84.3,3.37,0,0,1.63
+STU00706,F,Electrical Engineering,5.7,62.9,2.92,0,0,2.27
+STU00565,F,Business Administration,3.2,61.8,3.71,1,0,2.6
+STU00198,M,Mathematics,5.3,82.0,2.79,1,1,2.47
+STU00544,M,Business Administration,3.9,73.4,3.5,0,1,2.31
+STU00785,M,Computer Engineering,13.3,45.8,2.48,1,0,1.51
+STU00903,M,Electrical Engineering,9.1,87.6,2.58,1,0,2.68
+STU00425,M,Computer Engineering,9.0,92.0,3.42,0,1,2.28
+STU00457,M,Computer Engineering,12.6,72.5,2.26,1,0,1.96
+STU00917,F,Electrical Engineering,5.3,76.5,4.0,0,1,1.83
+STU01069,F,Business Administration,7.7,99.5,2.76,0,0,2.5
+STU00193,M,Data Science,6.8,93.0,2.97,0,0,2.41
+STU00949,M,Electrical Engineering,5.9,91.0,1.66,1,1,1.28
+STU00486,M,Mathematics,7.1,50.5,3.27,0,0,1.92
+STU00722,M,Data Science,6.5,100.0,3.65,0,0,2.45
+STU00287,M,Business Administration,12.4,76.7,2.68,0,1,1.51
+STU00631,M,Economics,2.0,88.6,3.04,1,1,1.95
+STU00222,F,Economics,7.1,82.0,2.88,0,0,2.46
+STU00244,M,Mathematics,3.1,98.7,2.24,1,0,2.19
+STU00228,F,Business Administration,5.3,82.0,2.79,0,0,2.54
+STU00983,F,Electrical Engineering,9.3,72.8,3.1,0,0,2.45
+STU00437,F,Business Administration,8.6,71.9,1.94,1,1,1.64
+STU00133,M,Electrical Engineering,3.8,100.0,2.4,1,0,2.04
+STU00432,M,Data Science,6.4,87.8,2.52,0,1,2.34
+STU00331,F,Electrical Engineering,2.4,81.4,2.35,0,0,1.41
+STU00126,F,Data Science,2.6,75.8,2.76,0,0,1.71
+STU00601,F,Electrical Engineering,5.5,83.5,4.0,0,0,2.57
+STU00973,F,Electrical Engineering,2.5,44.9,2.1,0,0,1.73
+STU00427,F,Business Administration,3.0,85.4,3.1,1,1,2.1
+STU00247,M,Data Science,16.1,92.0,2.77,1,1,2.49
+STU00388,M,Data Science,6.0,100.0,3.88,1,0,2.62
+STU00212,F,Computer Engineering,7.3,89.1,4.0,1,1,2.91
+STU00623,F,Economics,5.3,82.0,2.79,1,1,2.21
+STU01152,M,Electrical Engineering,2.0,95.1,1.31,1,0,1.94
+STU00699,M,Electrical Engineering,6.4,85.1,1.62,0,0,2.08
+STU00596,F,Business Administration,13.0,75.5,2.94,0,0,2.67
+STU00814,F,Computer Engineering,6.4,72.6,2.91,0,0,2.1
+STU01186,M,Data Science,7.2,60.2,2.63,0,0,2.01
+STU00875,M,Computer Engineering,9.4,76.8,4.0,1,0,2.67
+STU00895,F,Business Administration,6.0,81.7,2.31,0,1,2.03
+STU00633,M,Mathematics,3.4,86.9,3.41,1,1,2.44
+STU00346,M,Data Science,2.1,93.9,2.97,0,0,1.78
+STU00716,F,Economics,7.5,100.0,3.53,0,0,2.7
+STU01125,F,Economics,1.8,80.5,2.83,1,0,1.68
+STU00358,M,Economics,3.6,100.0,3.32,0,1,2.35
+STU00715,F,Mathematics,4.3,76.7,2.07,0,1,1.66
+STU01050,F,Mathematics,6.4,89.9,1.27,0,0,1.33
+STU00643,M,Electrical Engineering,13.8,93.8,2.57,0,0,2.53
+STU00309,M,Electrical Engineering,1.2,72.0,2.94,1,1,1.4
+STU00545,M,Computer Engineering,8.8,72.1,3.06,1,0,2.08
+STU00353,M,Data Science,8.8,100.0,2.62,1,1,2.57
+STU00365,F,Computer Engineering,2.1,54.8,2.46,1,0,1.38
+STU00513,F,Economics,9.6,98.6,3.4,1,0,2.39
+STU01119,M,Economics,2.2,94.1,2.13,1,1,1.28
+STU00386,F,Business Administration,9.3,98.2,3.14,0,1,2.68
+STU01008,M,Business Administration,3.0,78.7,3.18,1,1,2.07
+STU00953,F,Computer Engineering,10.4,96.6,3.06,0,0,2.78
+STU00500,M,Economics,4.4,97.1,3.08,1,1,2.77
+STU00219,M,Business Administration,2.9,86.0,3.02,0,0,2.67
+STU00757,F,Mathematics,1.0,69.9,2.96,0,1,1.79
+STU00395,F,Electrical Engineering,3.9,100.0,1.96,1,0,2.2
+STU00104,M,Data Science,6.3,75.0,1.99,1,0,2.16
+STU00488,M,Computer Engineering,7.9,83.6,3.85,1,0,3.01
+STU00261,M,Business Administration,5.7,75.1,2.57,1,0,2.09
+STU00709,F,Data Science,4.1,84.9,3.31,1,1,2.44
+STU00680,F,Economics,6.0,66.2,2.74,0,0,2.18
+STU01188,F,Computer Engineering,8.4,85.1,2.65,0,1,1.72
+STU00754,F,Mathematics,4.3,67.9,2.92,0,0,1.61
+STU00399,M,Electrical Engineering,2.2,86.9,3.25,0,0,2.21
+STU00970,M,Electrical Engineering,10.8,79.0,2.91,1,1,2.13
+STU00728,M,Business Administration,4.9,81.4,2.98,0,0,2.29
+STU00195,M,Computer Engineering,19.4,85.6,2.59,0,1,2.52
+STU00322,F,Computer Engineering,10.6,71.2,3.12,1,0,2.17
+STU00540,M,Computer Engineering,4.0,90.7,2.43,1,1,2.38
+STU01065,M,Computer Engineering,3.9,77.7,2.78,1,0,1.85
+STU00807,F,Electrical Engineering,7.4,67.8,3.76,0,0,2.09
+STU00675,M,Electrical Engineering,5.6,81.1,2.95,0,1,2.02
+STU00777,F,Electrical Engineering,6.2,100.0,2.18,0,0,2.33
+STU00446,F,Electrical Engineering,8.5,88.9,3.46,1,1,2.56
+STU00742,M,Computer Engineering,5.5,85.6,2.56,0,0,2.08
+STU01196,F,Computer Engineering,2.9,86.6,2.54,0,0,2.44
+STU00695,M,Mathematics,7.5,100.0,1.64,1,0,2.19
+STU00303,F,Data Science,6.5,77.6,2.18,1,1,1.9
+STU00910,M,Data Science,1.1,95.4,2.45,0,0,1.86
+STU00504,M,Computer Engineering,3.5,87.4,3.35,0,0,2.08
+STU00861,M,Economics,10.1,57.5,2.54,0,1,2.14
+STU00361,M,Mathematics,3.6,71.2,3.47,0,0,2.54
+STU00667,F,Economics,2.8,87.7,2.23,0,0,1.89
+STU00172,M,Electrical Engineering,4.9,65.3,1.99,1,0,1.94
+STU00732,F,Computer Engineering,6.9,55.4,1.3,0,0,1.3
+STU01108,M,Computer Engineering,9.3,74.2,2.18,0,0,2.22
+STU00479,F,Data Science,6.5,93.3,3.59,0,1,2.37
+STU00129,M,Mathematics,4.9,92.0,3.73,0,0,1.68
+STU00123,F,Business Administration,13.3,98.4,3.15,0,0,2.83
+STU00818,F,Mathematics,15.4,100.0,2.94,0,0,2.52
+STU00730,M,Mathematics,2.8,100.0,3.03,0,1,2.01
+STU01077,M,Electrical Engineering,4.6,57.4,3.66,0,1,1.65
+STU00458,F,Business Administration,7.8,70.6,2.32,0,1,1.4
+STU00138,F,Mathematics,3.6,86.6,4.0,0,1,2.44
+STU00816,F,Data Science,7.9,100.0,3.13,0,1,2.37
+STU00619,F,Data Science,3.5,42.0,2.28,1,0,1.36
+STU00963,F,Business Administration,11.0,79.9,2.68,1,0,2.49
+STU00806,F,Electrical Engineering,4.9,72.3,2.97,0,0,1.95
+STU00512,F,Mathematics,5.4,83.6,2.16,1,1,1.73
+STU00620,F,Mathematics,4.5,94.7,2.33,1,1,2.02
+STU01113,F,Mathematics,4.1,85.2,3.19,1,1,2.09
+STU00824,F,Economics,7.5,76.8,1.62,1,0,1.84
+STU00977,F,Mathematics,3.8,67.5,2.84,1,0,1.74
+STU00356,F,Economics,7.6,100.0,1.96,1,0,2.09
+STU00498,M,Data Science,8.4,91.5,2.44,1,1,2.04
+STU00832,M,Data Science,10.2,74.3,1.96,1,1,1.48
+STU00042,M,Business Administration,1.4,49.3,3.68,0,1,1.9
+STU00526,M,Data Science,2.4,90.5,2.92,1,0,2.54
+STU00869,M,Economics,6.6,73.1,3.03,0,0,2.21
+STU00792,F,Economics,7.3,82.3,3.98,0,0,2.75
+STU00578,F,Electrical Engineering,4.6,76.3,3.43,0,0,1.65
+STU00577,M,Electrical Engineering,3.9,75.3,2.48,0,0,1.8
+STU00275,F,Data Science,1.9,100.0,2.55,0,0,2.5
+STU00093,M,Business Administration,3.1,85.1,2.88,1,0,2.62
+STU00952,M,Computer Engineering,5.1,61.6,2.68,0,0,1.49
+STU00281,M,Electrical Engineering,3.0,75.7,2.77,0,0,2.09
+STU01117,F,Mathematics,3.2,98.7,2.37,1,1,2.01
+STU00602,F,Computer Engineering,4.9,100.0,3.08,0,1,2.35
+STU00421,F,Business Administration,4.5,82.8,2.81,0,0,1.69
+STU00524,M,Computer Engineering,10.0,61.1,3.57,1,0,2.12
+STU00925,M,Mathematics,7.6,94.6,3.01,0,1,2.39
+STU00737,M,Business Administration,1.8,75.1,3.23,1,0,2.75
+STU00976,F,Mathematics,3.8,89.8,3.23,1,0,2.51
+STU00004,F,Mathematics,7.5,75.5,1.85,1,1,1.72
+STU00447,F,Computer Engineering,4.9,85.6,3.52,0,0,2.21
+STU01016,F,Data Science,7.9,76.6,3.02,0,0,1.86
+STU01121,M,Business Administration,5.5,84.7,2.91,0,1,2.14
+STU00455,M,Economics,5.3,82.0,2.79,1,1,1.66
+STU00452,M,Economics,3.3,75.6,3.41,0,0,2.34
+STU00456,F,Electrical Engineering,5.4,74.1,1.61,0,0,1.6
+STU00327,M,Electrical Engineering,8.2,88.7,2.58,0,1,2.36
+STU01164,M,Computer Engineering,6.2,92.5,3.56,1,1,2.38
+STU00153,F,Computer Engineering,7.1,98.4,2.44,0,1,2.04
+STU00793,F,Computer Engineering,5.6,76.1,1.71,1,1,1.74
+STU00872,M,Business Administration,9.2,91.3,2.22,0,1,2.04
+STU00796,M,Data Science,9.8,83.9,3.16,0,1,1.62
+STU00384,M,Computer Engineering,10.0,84.9,2.77,0,0,2.08
+STU00181,M,Mathematics,2.9,88.3,2.17,0,0,1.95
+STU01174,F,Data Science,7.4,100.0,2.79,1,1,2.94
+STU00995,F,Mathematics,13.3,100.0,2.46,0,1,1.95
+STU01004,M,Business Administration,1.9,80.5,3.73,1,0,2.26
+STU00037,F,Economics,5.7,77.4,3.03,0,0,2.19
+STU00401,M,Business Administration,3.2,100.0,2.54,1,0,2.54
+STU00469,F,Computer Engineering,7.9,100.0,2.33,0,0,2.21
+STU00151,M,Economics,3.9,85.3,2.49,0,0,1.66
+STU00323,M,Business Administration,6.4,90.8,3.73,1,0,2.52
+STU00084,M,Economics,13.1,92.0,3.13,1,0,2.67
+STU00583,M,Business Administration,12.0,63.7,3.63,1,1,1.83
+STU00489,M,Data Science,10.6,84.8,2.82,1,0,2.61
+STU01044,M,Computer Engineering,6.0,82.4,2.71,1,0,2.0
+STU00537,F,Mathematics,5.3,82.0,2.79,0,0,1.98
+STU00379,F,Economics,4.0,87.4,2.54,0,0,2.57
+STU00747,F,Data Science,4.3,81.0,3.36,0,0,2.08
+STU00263,F,Economics,3.5,88.8,1.72,1,0,1.52
+STU00760,F,Economics,2.8,94.4,2.31,0,0,2.15
+STU00108,M,Electrical Engineering,1.2,78.3,2.83,1,1,1.55
+STU00653,F,Mathematics,2.6,72.6,3.11,1,0,1.94
+STU00811,M,Economics,3.2,77.5,3.2,1,1,2.35
+STU00495,M,Data Science,1.8,73.5,3.77,0,0,2.07
+STU00660,F,Economics,5.6,98.5,3.23,1,1,2.37
+STU01027,F,Business Administration,7.0,56.5,1.95,1,1,1.06
+STU01199,M,Electrical Engineering,3.9,51.8,2.52,0,0,2.17
+STU00948,F,Mathematics,7.6,71.1,2.78,1,1,1.69
+STU01147,F,Data Science,4.3,100.0,2.44,0,0,1.82
+STU00606,M,Mathematics,2.5,72.4,2.86,0,1,1.43
+STU00828,F,Data Science,4.8,78.2,3.35,1,0,2.52
+STU01156,F,Business Administration,4.4,82.1,3.58,0,1,2.41
+STU00692,M,Electrical Engineering,7.1,98.0,3.26,0,1,2.58
+STU01092,F,Computer Engineering,5.3,82.0,2.79,1,0,1.17
+STU00935,F,Data Science,9.4,65.6,2.54,0,0,2.38
+STU00163,M,Economics,7.1,75.0,3.55,1,1,2.12
+STU00629,M,Computer Engineering,4.7,72.4,3.48,1,1,2.35
+STU00959,F,Data Science,7.9,73.2,1.33,0,0,1.83
+STU00178,M,Computer Engineering,3.6,91.4,3.12,1,0,2.7
+STU00891,M,Data Science,9.4,74.2,2.56,1,0,2.02
+STU00253,F,Mathematics,5.0,79.7,3.09,1,0,2.22
+STU01187,F,Mathematics,1.6,79.7,3.06,0,0,1.72
+STU01180,F,Business Administration,6.3,75.4,2.87,0,0,1.72
+STU00448,F,Business Administration,8.2,79.6,1.68,0,0,1.45
+STU00802,F,Computer Engineering,9.5,72.1,2.72,0,0,2.23
+STU00956,M,Computer Engineering,5.4,46.7,2.57,0,0,1.45
+STU00087,M,Data Science,2.8,84.0,3.37,1,0,1.85
+STU00641,F,Computer Engineering,5.3,82.0,2.79,1,1,1.81
+STU00731,M,Mathematics,2.4,93.4,2.72,1,0,2.5
+STU01169,M,Economics,7.3,75.6,2.31,0,0,1.8
+STU00592,F,Economics,1.8,84.4,1.6,0,0,1.48
+STU00573,M,Electrical Engineering,7.6,82.3,3.07,0,1,2.37
+STU00519,F,Economics,5.6,87.2,2.8,1,0,2.11
+STU00888,M,Business Administration,2.9,76.6,2.58,0,1,1.85
+STU00342,M,Electrical Engineering,8.4,65.8,3.08,0,0,1.77
+STU00296,F,Mathematics,6.2,61.9,2.43,1,0,1.95
+STU00200,M,Data Science,3.2,85.4,2.87,0,0,1.43
+STU00375,F,Business Administration,0.3,74.0,2.21,1,0,1.54
+STU00099,M,Computer Engineering,6.7,71.2,3.03,1,0,1.88
+STU00612,M,Electrical Engineering,6.5,86.1,2.04,0,0,2.25
+STU00794,M,Economics,5.7,64.3,2.89,0,1,1.81
+STU00336,M,Electrical Engineering,4.6,77.0,2.46,1,0,2.18
+STU00179,M,Computer Engineering,3.2,77.2,2.65,1,0,1.51
+STU00928,M,Business Administration,11.9,78.5,2.63,1,0,2.66
+STU01191,F,Economics,21.7,73.8,3.58,0,1,2.71
+STU00118,M,Electrical Engineering,7.0,68.9,3.62,0,0,2.82
+STU01128,F,Business Administration,3.3,100.0,3.11,0,0,2.26
+STU01072,M,Data Science,3.3,87.7,2.46,1,0,1.89
+STU00134,F,Business Administration,6.3,99.3,1.63,0,0,1.73
+STU00485,F,Economics,1.4,85.5,2.71,0,0,2.13
+STU00052,F,Computer Engineering,3.9,100.0,2.86,0,1,1.99
+STU00360,M,Economics,8.0,100.0,2.62,0,0,2.21
+STU00259,F,Computer Engineering,8.1,96.2,2.46,1,0,2.83
+STU01146,F,Computer Engineering,5.3,82.0,2.79,1,0,1.9
+STU00693,F,Economics,3.8,77.9,2.71,0,0,1.7
+STU00329,F,Economics,6.5,67.4,3.09,0,1,1.93
+STU00297,M,Data Science,5.9,77.7,3.4,0,0,2.13
+STU00561,M,Mathematics,13.0,65.1,3.52,1,0,2.72
+STU00022,F,Economics,1.3,70.4,3.4,0,0,2.17
+STU00855,F,Electrical Engineering,6.6,96.9,1.83,0,0,1.55
+STU00473,F,Mathematics,5.3,100.0,3.22,0,0,2.51
+STU00282,M,Electrical Engineering,7.1,72.5,0.68,1,0,1.28
+STU00921,F,Business Administration,3.6,100.0,2.35,1,1,1.86
+STU00616,F,Electrical Engineering,6.2,84.2,3.11,1,1,2.65
+STU01181,M,Electrical Engineering,1.0,100.0,3.37,1,1,2.45
+STU00773,F,Electrical Engineering,2.3,51.2,1.88,0,1,0.88
+STU01184,M,Business Administration,5.8,84.6,3.34,1,0,2.36
+STU00851,M,Data Science,4.9,70.1,3.53,1,0,2.35
+STU00467,M,Business Administration,6.5,67.3,2.75,1,1,1.59
+STU00066,M,Mathematics,8.3,90.7,2.69,0,0,2.91
+STU00451,F,Mathematics,5.3,89.2,2.35,1,1,1.75
+STU01177,F,Computer Engineering,5.5,30.8,3.11,0,0,1.79
+STU00865,M,Electrical Engineering,8.2,100.0,2.77,1,0,2.49
+STU00061,M,Data Science,5.4,82.9,1.71,1,1,2.06
+STU00756,F,Business Administration,3.6,95.9,3.71,0,0,2.61
+STU00143,F,Electrical Engineering,3.9,83.9,3.32,0,0,2.35
+STU00430,M,Computer Engineering,5.3,82.0,2.79,1,0,1.91
+STU01172,M,Business Administration,3.3,55.1,3.42,0,1,1.67
+STU00184,M,Electrical Engineering,10.1,100.0,2.79,0,1,2.11
+STU00650,F,Data Science,2.3,82.0,2.88,1,0,1.98
+STU00789,F,Electrical Engineering,8.4,98.8,2.98,0,0,3.01
+STU00797,F,Electrical Engineering,15.1,71.5,2.8,1,0,2.59
+STU00478,M,Data Science,4.4,78.9,2.98,0,1,1.87
+STU00532,M,Mathematics,5.5,69.3,2.66,1,0,1.79
+STU00409,F,Business Administration,15.5,87.2,3.6,0,1,2.7
+STU00871,F,Electrical Engineering,6.2,85.5,2.66,0,1,1.83
+STU00557,M,Economics,4.1,84.2,2.6,0,0,1.93
+STU00734,M,Computer Engineering,5.3,85.3,2.75,0,0,1.81
+STU00480,F,Electrical Engineering,5.3,82.0,2.79,0,0,1.7
+STU00120,F,Business Administration,3.6,71.6,3.99,1,0,3.13
+STU00089,F,Electrical Engineering,14.0,93.1,2.88,0,1,2.03
+STU01179,F,Data Science,11.7,90.7,2.81,1,1,2.88
+STU00820,M,Business Administration,1.8,100.0,2.57,0,0,1.57
+STU00107,M,Electrical Engineering,15.3,67.2,2.6,1,0,2.05
+STU00472,M,Business Administration,7.6,68.5,3.48,0,0,2.4
+STU01014,M,Business Administration,4.6,72.2,2.89,1,0,1.94
+STU00266,F,Business Administration,2.3,63.3,2.66,1,1,1.5
+STU00885,M,Electrical Engineering,6.1,93.6,3.34,0,0,2.91
+STU00823,M,Data Science,2.3,90.3,1.93,0,0,1.76
+STU00249,M,Data Science,8.3,78.4,2.6,0,0,2.23
+STU00933,F,Electrical Engineering,9.2,89.9,3.64,0,0,1.81
+STU01029,F,Computer Engineering,11.0,93.6,3.36,0,0,2.48
+STU00420,M,Data Science,6.0,64.1,2.63,0,0,2.07
+STU00140,F,Business Administration,4.6,69.1,3.61,0,0,2.0
+STU00646,M,Mathematics,6.9,96.7,2.59,0,0,2.27
+STU00466,F,Mathematics,1.2,83.3,2.75,0,1,1.45
+STU00462,F,Computer Engineering,8.0,80.7,2.55,0,0,2.1
+STU00477,F,Electrical Engineering,2.8,89.1,2.05,1,0,2.36
+STU00105,F,Computer Engineering,3.2,82.7,3.09,0,0,2.32
+STU00636,M,Mathematics,5.3,82.0,2.79,1,0,1.97
+STU00150,F,Mathematics,5.5,80.7,3.46,1,0,2.85
+STU01048,M,Computer Engineering,11.0,100.0,2.92,1,0,1.82
+STU00403,M,Computer Engineering,8.7,96.6,2.32,0,0,2.49
+STU00302,M,Economics,1.3,89.5,3.01,0,0,2.31
+STU00856,M,Electrical Engineering,2.0,92.8,2.94,0,0,2.02
+STU00124,M,Data Science,4.6,100.0,2.86,0,1,2.3
+STU00873,M,Business Administration,8.0,80.2,3.89,1,0,2.81
+STU00348,F,Data Science,10.3,94.5,4.0,0,0,2.69
+STU00368,M,Mathematics,6.4,87.7,2.94,1,0,2.11
+STU00141,M,Electrical Engineering,5.5,65.1,3.49,1,0,1.99
+STU00772,F,Economics,5.1,81.2,2.93,1,0,2.37
+STU00021,F,Mathematics,1.5,87.2,4.0,1,1,2.34
+STU00887,M,Mathematics,9.1,81.7,3.51,0,1,2.57
+STU01041,M,Economics,4.5,87.5,2.85,1,1,1.77
+STU00681,M,Business Administration,3.4,94.7,3.25,0,1,2.48
+STU00049,F,Electrical Engineering,5.3,82.0,2.79,1,1,1.77
+STU00630,M,Electrical Engineering,6.0,88.2,2.68,1,0,1.96
+STU00762,F,Mathematics,1.7,100.0,1.51,1,0,1.15
+STU01010,M,Economics,1.5,92.4,4.0,1,0,2.45
+STU00877,F,Economics,1.7,99.4,2.57,1,1,1.69
+STU00880,M,Computer Engineering,6.2,84.5,3.0,0,1,1.99
+STU00562,M,Mathematics,17.4,92.3,2.63,0,0,2.25
+STU00842,F,Electrical Engineering,3.7,75.6,1.53,1,0,1.68
+STU01135,M,Electrical Engineering,2.0,100.0,2.31,0,1,1.59
+STU01165,M,Economics,7.8,78.6,2.14,0,0,1.84
+STU01115,M,Electrical Engineering,4.5,55.8,2.24,0,0,1.4
+STU00580,M,Economics,4.1,68.6,3.06,1,1,2.06
+STU01055,F,Data Science,4.0,74.5,3.15,0,1,2.4
+STU00026,F,Economics,6.2,69.3,2.03,0,1,2.2
+STU01033,F,Electrical Engineering,5.3,82.0,2.79,0,1,2.19
+STU01095,M,Computer Engineering,6.4,78.4,2.05,0,0,1.82
+STU01006,F,Business Administration,5.3,82.0,2.79,1,0,2.37
+STU00767,F,Data Science,9.9,70.8,2.4,1,0,2.39
+STU00077,M,Economics,2.2,100.0,2.59,1,0,2.12
+STU01107,F,Computer Engineering,4.4,76.4,3.23,0,0,2.17
+STU00385,F,Data Science,1.5,82.1,2.62,1,0,2.06
+STU00852,F,Computer Engineering,9.1,75.7,3.11,0,1,2.71
+STU01002,F,Economics,2.9,90.3,3.2,0,0,1.26
+STU00893,M,Economics,4.7,78.1,2.66,0,1,1.84
+STU00494,F,Data Science,8.2,60.3,3.09,0,0,1.53
+STU00821,F,Economics,5.6,85.9,2.92,1,1,1.71
+STU00272,F,Electrical Engineering,5.9,100.0,3.0,1,0,2.56
+STU00587,F,Data Science,1.6,89.3,3.52,1,0,2.14
+STU00240,F,Computer Engineering,5.3,84.7,2.54,1,1,2.4
+STU00310,F,Computer Engineering,9.6,73.1,1.92,0,0,1.6
+STU00053,M,Data Science,6.7,96.7,3.05,0,1,1.77
+STU00943,F,Data Science,3.8,41.5,2.53,0,0,1.37
+STU00394,M,Computer Engineering,1.3,67.7,3.72,1,1,2.07
+STU01126,F,Business Administration,8.9,75.7,2.66,1,0,2.07
+STU00663,F,Economics,3.6,100.0,2.97,0,1,2.16
+STU01000,F,Mathematics,12.3,81.2,1.57,1,0,1.9
+STU00285,M,Electrical Engineering,3.0,97.3,3.8,0,1,2.23
+STU01123,M,Economics,8.1,77.8,3.3,1,0,2.73
+STU00155,F,Computer Engineering,3.7,79.2,2.39,1,0,1.83
+STU00417,M,Electrical Engineering,6.2,62.8,2.76,1,0,1.46
+STU00278,F,Business Administration,6.3,94.2,2.24,0,1,1.97
+STU00810,M,Business Administration,8.3,83.1,3.14,1,0,2.49
+STU00957,F,Data Science,3.5,56.8,3.58,0,0,1.59
+STU01013,M,Economics,5.6,85.8,3.21,0,0,2.2
+STU01074,M,Computer Engineering,4.0,42.9,1.75,1,0,1.07
+STU00378,M,Computer Engineering,3.5,91.3,2.8,1,1,2.27
+STU00306,M,Electrical Engineering,5.3,82.0,2.79,0,0,2.56
+STU00273,M,Data Science,3.6,96.8,2.55,1,1,2.04
+STU00062,M,Mathematics,4.1,100.0,1.6,0,0,1.83
+STU00260,M,Business Administration,9.7,100.0,2.71,0,1,2.49
+STU00718,M,Electrical Engineering,5.0,70.7,3.35,1,0,2.06
+STU00502,M,Computer Engineering,14.2,89.3,2.17,0,0,2.55
+STU00919,F,Economics,6.7,71.8,2.98,0,0,2.07
+STU00481,F,Economics,7.0,95.7,3.82,1,1,2.68
+STU00743,F,Computer Engineering,1.6,76.8,2.0,0,0,1.91
+STU01021,F,Business Administration,10.1,83.1,3.21,0,0,2.4
+STU00111,F,Computer Engineering,5.8,57.8,2.59,0,0,1.86
+STU00915,F,Economics,0.9,71.4,2.74,1,0,2.46
+STU00923,F,Data Science,9.4,89.3,3.44,1,0,2.38
+STU00252,F,Mathematics,2.7,92.3,2.71,1,0,2.51
+STU00454,M,Business Administration,3.4,99.3,2.84,1,0,2.43
+STU00001,M,Data Science,3.1,84.3,3.29,0,0,1.96
+STU00902,M,Computer Engineering,3.3,85.9,2.56,1,0,1.85
+STU00950,M,Mathematics,6.5,67.1,2.71,1,1,2.5
+STU00878,M,Data Science,6.7,56.0,3.62,0,0,2.15
+STU00325,F,Data Science,7.5,74.0,2.27,0,0,2.1
+STU00197,M,Mathematics,5.1,74.2,3.24,1,1,2.63
+STU00988,F,Electrical Engineering,3.7,87.3,3.08,0,1,1.4
+STU00647,F,Data Science,0.9,79.6,4.0,0,0,2.1
+STU00940,F,Data Science,6.1,65.6,2.67,0,0,1.86
+STU00679,F,Mathematics,10.0,59.7,2.32,1,1,1.55
+STU00187,M,Economics,6.5,50.2,2.5,1,1,1.54
+STU00396,M,Data Science,8.7,83.6,2.58,0,1,2.19
+STU00723,M,Computer Engineering,4.7,73.2,2.58,1,0,2.28
+STU00064,F,Data Science,3.0,84.2,3.01,0,0,2.17
+STU00330,M,Electrical Engineering,5.4,87.8,2.72,0,0,2.5
+STU00115,M,Business Administration,8.4,64.5,2.21,0,1,1.92
+STU00863,M,Computer Engineering,6.3,73.0,3.18,1,0,2.0
+STU00363,M,Computer Engineering,2.6,63.1,3.32,0,1,2.07
+STU00313,F,Economics,7.0,86.7,2.41,0,0,1.89
+STU00128,M,Data Science,5.2,51.7,2.9,0,1,1.54
+STU00440,F,Computer Engineering,4.0,65.5,2.48,0,1,1.51
+STU00194,F,Data Science,8.3,60.2,2.23,1,0,1.98
+STU01157,F,Electrical Engineering,5.9,67.9,2.0,1,1,1.92
+STU00135,M,Economics,5.3,82.0,2.79,0,0,2.48
+STU00984,M,Mathematics,5.3,82.0,2.79,0,1,2.0
+STU00224,M,Computer Engineering,8.3,76.0,2.18,0,0,2.07
+STU00002,F,Mathematics,5.3,51.9,2.44,1,0,1.62
+STU00563,F,Computer Engineering,7.7,77.7,2.71,1,1,2.31
+STU00702,M,Economics,2.7,81.8,2.97,1,1,1.65
+STU00242,M,Computer Engineering,8.9,59.1,2.92,0,1,2.49
+STU00075,M,Business Administration,3.3,87.2,1.58,1,1,1.63
+STU00819,F,Economics,4.6,68.9,3.16,0,1,1.63
+STU01099,F,Computer Engineering,2.6,79.2,2.71,1,0,2.54
+STU00359,M,Economics,6.0,86.4,2.02,1,0,2.07
+STU01185,F,Computer Engineering,9.5,85.1,2.57,1,1,2.59
+STU00369,F,Business Administration,5.6,90.8,1.25,0,0,1.7
+STU00938,M,Mathematics,1.2,69.7,2.14,1,1,1.38
+STU00337,M,Electrical Engineering,9.1,71.1,2.38,1,1,2.17
+STU01043,F,Economics,5.3,82.0,2.79,0,1,1.73
+STU00006,M,Computer Engineering,4.5,84.3,2.65,0,1,2.19
+STU01039,M,Computer Engineering,4.6,75.2,3.43,0,0,2.46
+STU00857,F,Data Science,15.8,100.0,1.43,0,1,2.11
+STU00248,M,Electrical Engineering,3.1,100.0,3.41,0,0,2.74
+STU00991,M,Mathematics,6.8,95.2,2.32,1,1,1.66
+STU00735,F,Economics,4.3,64.1,2.66,1,1,1.44
+STU00536,F,Data Science,4.2,67.8,2.52,0,0,1.56
+STU00980,M,Mathematics,3.2,74.0,3.11,1,0,2.29
+STU00955,F,Computer Engineering,7.2,64.8,3.41,1,0,1.94
+STU00318,F,Business Administration,7.8,63.1,3.26,0,1,2.12
+STU00056,M,Economics,5.9,51.2,3.81,0,0,1.96
+STU00383,M,Data Science,3.9,95.4,2.69,0,1,2.38
+STU00555,F,Data Science,8.8,69.9,2.68,1,1,1.89
+STU00357,F,Business Administration,4.9,89.3,3.24,0,0,2.61
+STU00530,F,Mathematics,2.3,53.1,3.66,0,0,1.79
+STU00510,M,Business Administration,9.5,80.5,2.91,1,0,2.45
+STU00546,M,Data Science,2.9,86.3,2.43,0,0,2.05
+STU01192,F,Electrical Engineering,4.4,66.8,1.99,0,1,1.97
+STU00170,F,Electrical Engineering,4.8,80.2,2.75,1,1,1.77
+STU01022,F,Economics,3.0,83.5,2.19,0,0,1.51
+STU01136,F,Business Administration,4.8,64.9,3.48,1,0,2.15
+STU00186,M,Data Science,6.1,66.1,2.91,0,0,1.9
+STU00010,M,Economics,5.9,77.8,0.84,1,0,1.37
+STU01059,M,Business Administration,8.4,100.0,2.23,0,1,2.18
+STU00686,M,Data Science,7.2,64.9,2.52,0,0,1.99
+STU00030,M,Electrical Engineering,10.3,70.3,3.28,0,0,2.47
+STU00627,F,Computer Engineering,6.2,82.2,3.55,1,1,2.44
+STU00065,M,Electrical Engineering,5.3,82.0,2.79,1,1,1.94
+STU00189,M,Electrical Engineering,5.3,82.0,2.79,1,1,2.15
+STU00116,M,Economics,2.4,81.9,2.6,0,1,1.99
+STU00791,M,Electrical Engineering,5.9,66.1,1.81,0,0,1.72
+STU01005,M,Electrical Engineering,4.1,63.0,2.41,0,1,1.77
+STU01057,M,Mathematics,6.4,92.6,2.85,1,0,2.6
+STU00765,M,Economics,8.0,75.0,2.28,1,0,1.89
+STU00994,F,Economics,8.4,73.0,3.35,1,0,2.25
+STU00700,F,Economics,6.5,60.1,2.52,1,0,1.8
+STU00717,F,Computer Engineering,4.6,93.2,2.76,0,1,1.71
+STU00048,F,Mathematics,7.9,100.0,2.62,0,1,2.16
+STU00214,F,Computer Engineering,2.8,89.0,2.4,0,0,1.67
+STU00125,F,Electrical Engineering,4.6,69.7,2.42,1,1,1.55
+STU00046,F,Data Science,10.8,87.3,2.38,1,1,2.03
+STU00256,M,Electrical Engineering,0.4,58.3,3.07,1,1,1.74
+STU00618,F,Mathematics,10.4,99.3,2.83,0,1,2.24
+STU00854,M,Business Administration,5.0,81.6,1.91,1,0,1.7
+STU00553,F,Electrical Engineering,7.5,66.4,2.4,0,0,1.41
+STU00840,M,Economics,4.1,86.7,2.16,0,1,1.44
+STU00091,F,Business Administration,9.9,83.7,2.03,1,0,2.09
+STU00981,F,Business Administration,5.1,78.5,2.47,1,1,1.28
+STU00016,M,Computer Engineering,7.3,98.4,1.81,0,1,1.88
+STU00779,M,Data Science,10.2,89.3,3.2,0,0,2.42
+STU00405,F,Economics,5.8,91.6,4.0,0,0,2.75
+STU01132,F,Computer Engineering,16.1,100.0,2.16,0,0,2.54
+STU00047,M,Computer Engineering,7.3,97.5,3.36,1,0,2.17
+STU00157,F,Data Science,3.6,100.0,3.4,1,0,2.04
+STU00972,F,Electrical Engineering,5.6,81.9,3.12,0,0,2.05
+STU00843,M,Computer Engineering,2.8,81.3,3.1,0,0,1.67
+STU00812,F,Business Administration,4.4,94.0,2.37,0,0,2.68
+STU00746,F,Electrical Engineering,7.7,57.5,3.78,1,1,2.17
+STU00541,F,Data Science,3.4,62.3,2.53,1,0,1.84
+STU00658,M,Mathematics,5.0,84.9,3.62,1,0,2.53
+STU00382,F,Business Administration,6.7,85.3,2.8,0,0,2.4
+STU00218,M,Economics,8.3,71.2,1.48,0,0,2.1
+STU00070,F,Computer Engineering,4.2,88.4,2.25,1,0,2.12
+STU00069,F,Business Administration,3.6,100.0,2.06,0,0,2.17
+STU00707,M,Data Science,12.7,100.0,2.31,0,1,2.51
+STU00090,F,Data Science,7.0,80.3,3.47,1,0,1.82
+STU00674,M,Computer Engineering,4.0,90.6,2.27,0,0,1.74
+STU01003,M,Business Administration,9.2,100.0,2.1,0,0,1.99
+STU00841,M,Electrical Engineering,7.7,91.1,3.47,0,0,3.17
+STU00054,M,Computer Engineering,1.9,70.4,2.56,0,1,1.19
+STU00971,F,Electrical Engineering,6.4,72.4,3.17,0,0,1.73
+STU00614,F,Business Administration,6.6,88.1,3.07,0,0,2.63
+STU01151,M,Electrical Engineering,7.2,97.4,2.72,0,0,2.43
+STU00127,M,Electrical Engineering,5.4,69.6,2.84,0,0,2.0
+STU00668,F,Data Science,5.4,61.8,1.79,0,0,1.68
+STU00109,M,Mathematics,7.7,100.0,3.49,1,0,2.91
+STU00484,F,Business Administration,5.3,82.0,2.79,1,0,1.65
+STU00043,M,Data Science,6.8,56.7,2.97,0,0,1.88
+STU00422,M,Economics,1.8,71.5,2.27,0,1,1.74
+STU00593,M,Mathematics,9.1,83.9,1.86,0,0,2.51
+STU00939,F,Economics,5.8,86.7,1.85,1,1,1.57
+STU01024,F,Economics,1.8,72.7,1.56,0,1,1.54
+STU00588,F,Mathematics,2.7,92.5,3.23,1,1,1.73
+STU00453,F,Data Science,5.7,83.0,3.07,0,1,2.27
+STU00947,M,Computer Engineering,2.4,66.0,3.35,0,0,2.07
+STU01028,M,Mathematics,8.5,80.1,2.11,0,0,2.22
+STU00160,F,Electrical Engineering,4.6,57.8,3.31,1,0,1.87
+STU00145,M,Electrical Engineering,10.5,67.9,3.76,0,0,2.73
+STU01175,F,Mathematics,5.5,100.0,1.79,0,0,2.31
+STU00474,M,Data Science,3.5,84.7,3.37,1,1,2.29
+STU00710,M,Economics,2.4,43.6,3.35,0,0,1.79
+STU01090,F,Business Administration,5.7,73.1,3.12,1,0,2.07
+STU00913,M,Economics,5.4,94.4,2.69,0,1,1.75
+STU00289,F,Data Science,2.6,84.6,2.55,0,1,2.29
+STU00966,F,Mathematics,4.4,66.4,2.91,0,0,1.73
+STU00315,M,Mathematics,7.6,71.7,4.0,0,1,2.44
+STU00749,F,Mathematics,4.8,100.0,3.18,1,1,2.45
+STU00838,F,Business Administration,5.3,82.0,2.79,0,0,1.19
+STU00788,M,Economics,6.9,87.4,2.03,0,0,1.57
+STU00468,F,Mathematics,15.5,69.4,3.49,0,1,2.27
+STU00098,F,Electrical Engineering,3.9,61.5,2.41,1,1,1.66
+STU00226,M,Economics,1.6,100.0,2.58,0,1,2.23
+STU00450,F,Data Science,8.6,73.6,2.6,0,1,2.03
+STU00381,F,Electrical Engineering,2.8,95.1,2.88,1,0,3.05
+STU00461,F,Computer Engineering,12.2,84.6,1.91,1,0,2.33
+STU00815,M,Economics,8.6,62.7,1.67,1,0,1.26
+STU01062,M,Electrical Engineering,4.6,100.0,3.03,1,1,2.34
+STU01183,F,Electrical Engineering,4.4,88.7,2.07,1,1,2.5
+STU00648,M,Economics,10.3,53.8,2.72,1,1,1.65
+STU00277,M,Computer Engineering,2.1,86.0,2.03,0,0,1.35
+STU00944,F,Economics,2.4,60.7,2.38,1,1,2.03
+STU00321,M,Mathematics,5.3,82.0,2.79,0,0,2.44
+STU00651,M,Business Administration,3.5,76.2,4.0,0,0,2.17
+STU00848,F,Electrical Engineering,7.5,89.3,2.2,0,1,2.3
+STU00487,M,Mathematics,3.2,81.4,2.69,0,0,2.09
+STU00483,F,Computer Engineering,2.3,68.8,3.08,1,1,1.82
+STU00442,F,Data Science,4.9,67.4,3.32,0,0,1.72
+STU00503,F,Mathematics,3.3,71.3,2.59,0,0,1.71
+STU00639,M,Electrical Engineering,7.7,82.3,3.45,0,0,2.16
+STU00582,M,Mathematics,10.2,73.1,2.22,1,0,1.97
+STU00942,F,Computer Engineering,4.6,89.1,3.07,0,0,1.75
+STU00750,F,Computer Engineering,4.6,49.2,2.25,0,1,1.42
+STU00916,M,Data Science,5.3,82.0,2.79,0,0,2.56
+STU00576,F,Computer Engineering,5.5,70.1,4.0,0,0,2.01
+STU00673,F,Computer Engineering,8.6,89.6,3.29,1,1,2.57
+STU00845,F,Business Administration,7.7,92.7,1.52,1,0,2.21
+STU00713,F,Electrical Engineering,8.2,89.0,2.44,1,0,2.43
+STU00927,F,Economics,5.8,88.5,2.59,1,1,1.82
+STU00397,M,Mathematics,2.2,41.8,3.73,0,0,1.98
+STU00946,M,Computer Engineering,3.0,88.0,3.0,0,1,1.99
+STU00862,F,Mathematics,4.3,100.0,2.67,1,0,2.14
+STU00188,M,Economics,1.9,82.9,2.71,1,0,2.14
+STU01083,M,Economics,5.3,82.0,2.79,0,0,2.47
+STU00849,F,Business Administration,10.0,82.5,2.39,0,1,1.54
+STU00490,F,Mathematics,2.6,100.0,3.18,0,1,2.24
+STU01105,M,Electrical Engineering,3.1,80.0,3.21,1,1,2.35
+STU01155,M,Data Science,6.0,59.0,3.34,1,1,2.08
+STU00122,M,Computer Engineering,5.9,76.4,3.32,0,0,2.33
+STU00009,F,Economics,12.7,51.8,4.0,1,0,2.52
+STU00164,F,Computer Engineering,5.2,79.5,2.1,0,0,1.78
+STU00804,M,Data Science,1.4,100.0,2.67,1,0,1.96
+STU00786,F,Data Science,1.9,85.4,2.4,0,0,1.71
+STU00622,F,Business Administration,5.0,81.4,2.91,0,0,2.07
+STU00101,M,Data Science,1.3,58.4,2.66,0,0,1.67
+STU00992,F,Economics,3.2,97.2,1.72,1,1,1.6
+STU00351,F,Data Science,2.0,95.9,3.35,0,0,2.3
+STU00373,F,Data Science,2.6,100.0,2.45,1,1,1.14
+STU00571,M,Economics,2.2,70.4,2.71,1,1,1.19
+STU00560,M,Computer Engineering,13.4,54.0,1.74,0,0,1.55
+STU00726,M,Economics,10.9,93.2,1.85,0,0,2.17
+STU00271,F,Economics,4.3,53.2,2.7,1,0,1.52
+STU00621,F,Business Administration,10.6,95.2,2.74,1,0,2.6
+STU00996,F,Electrical Engineering,4.5,79.4,3.24,0,0,2.3
+STU00689,M,Business Administration,8.4,82.0,2.74,0,0,1.85
+STU00645,M,Data Science,5.4,78.7,3.85,0,0,2.09
+STU00239,F,Electrical Engineering,5.3,82.0,2.79,0,0,1.61
+STU01178,F,Electrical Engineering,3.0,70.4,2.92,0,1,1.79
+STU00076,F,Mathematics,7.1,97.0,3.97,1,0,2.64
+STU00223,F,Data Science,5.1,91.8,2.58,0,1,1.58
+STU00662,M,Economics,9.6,72.5,2.6,0,1,1.92
+STU00642,M,Mathematics,2.3,70.6,2.81,0,0,1.72
+STU00830,M,Economics,1.2,83.1,2.69,0,0,2.14
+STU00962,F,Electrical Engineering,5.4,67.7,2.59,0,0,2.23
+STU01163,M,Economics,4.9,76.3,3.01,0,0,1.91
+STU00518,F,Computer Engineering,3.8,64.1,2.71,0,1,2.12
+STU00931,M,Economics,4.7,94.1,3.01,0,0,2.15
+STU00460,M,Electrical Engineering,5.4,78.3,1.57,0,0,1.5
+STU00311,M,Mathematics,3.4,94.5,2.62,1,1,1.75
+STU00018,M,Business Administration,11.7,60.9,2.23,0,1,2.07
+STU00191,F,Economics,1.9,100.0,3.59,0,1,2.66
+STU00413,M,Electrical Engineering,11.8,88.3,2.27,0,0,2.12
+STU00936,M,Business Administration,3.8,100.0,2.56,1,0,2.02
+STU01061,M,Computer Engineering,0.3,100.0,3.39,0,1,2.59
+STU00280,M,Mathematics,1.3,91.1,3.27,0,0,2.44
+STU00499,M,Economics,2.2,92.9,2.0,1,1,1.74
+STU00328,F,Data Science,7.4,100.0,2.59,0,1,1.99
+STU00000,F,Electrical Engineering,4.0,95.2,2.81,1,1,2.14
+STU00572,M,Economics,1.9,96.7,3.54,0,1,2.01
+STU00876,F,Economics,1.1,90.9,2.36,1,1,1.4
+STU00755,M,Economics,4.5,83.0,2.7,0,0,1.82
+STU01086,M,Data Science,3.0,100.0,2.97,0,0,2.18
+STU00609,F,Electrical Engineering,8.8,92.4,2.35,0,0,1.69
+STU00954,F,Economics,1.1,100.0,2.57,1,0,1.95
+STU00906,M,Computer Engineering,3.3,79.5,2.71,1,0,1.61
+STU00339,F,Computer Engineering,4.9,79.6,2.25,1,0,1.91
+STU00182,M,Electrical Engineering,2.4,80.8,3.03,0,1,1.65
+STU00493,F,Data Science,8.3,56.7,2.57,0,0,2.33
+STU00781,F,Computer Engineering,4.8,71.2,2.26,0,0,1.5
+STU00096,F,Computer Engineering,9.1,64.2,2.34,0,1,1.05
+STU00666,M,Data Science,3.3,81.2,2.79,0,1,1.62
+STU00055,F,Data Science,11.5,88.6,2.08,0,0,2.19
+STU00350,F,Business Administration,3.7,100.0,2.46,1,0,2.21
+STU00836,F,Electrical Engineering,2.9,100.0,2.81,0,0,2.37
+STU00771,M,Economics,6.1,72.7,2.49,0,1,1.64
+STU00039,F,Data Science,6.5,58.2,2.62,1,0,1.88
+STU00522,M,Computer Engineering,3.7,73.1,1.95,0,0,1.39
+STU01149,F,Electrical Engineering,12.4,85.1,3.92,1,0,3.38
+STU01101,M,Electrical Engineering,14.8,83.7,2.86,1,1,2.1
+STU00304,M,Computer Engineering,6.9,88.6,2.7,0,0,1.9
+STU00215,F,Data Science,5.1,92.3,3.15,1,0,1.58
+STU00825,F,Economics,3.0,79.1,2.68,0,0,1.33
+STU00298,M,Computer Engineering,2.3,100.0,3.34,1,1,2.22
+STU00371,F,Economics,2.6,96.1,2.84,0,0,2.03
+STU00538,M,Mathematics,12.4,91.7,2.58,0,1,2.31
+STU01051,M,Data Science,3.0,66.9,3.08,1,0,2.26
+STU00696,F,Business Administration,4.1,87.6,2.49,0,0,1.94
+STU00237,F,Mathematics,6.4,50.2,3.1,0,0,1.94
+STU00376,M,Electrical Engineering,5.2,87.3,2.03,0,1,1.69
+STU00088,F,Computer Engineering,6.8,100.0,2.35,0,0,2.38
+STU01015,M,Data Science,5.0,72.6,2.63,0,0,2.35
+STU00529,F,Economics,5.1,63.8,3.19,1,0,2.21
+STU01198,F,Electrical Engineering,9.3,83.9,2.92,1,1,2.0
+STU01085,F,Mathematics,3.4,82.1,2.67,0,1,1.89
+STU00038,M,Electrical Engineering,11.5,81.0,2.99,1,0,2.39
+STU00152,F,Economics,7.7,71.9,3.16,0,0,2.44
+STU00079,F,Computer Engineering,4.5,100.0,2.78,1,0,2.09
+STU00429,M,Business Administration,1.7,85.7,2.44,0,1,2.0
+STU00241,F,Computer Engineering,3.3,82.6,2.42,1,0,1.93
+STU01060,M,Mathematics,5.3,82.0,2.79,1,0,2.22
+STU00844,M,Economics,4.2,71.8,3.2,1,0,2.4
+STU00389,F,Data Science,10.8,93.9,3.66,1,1,2.63
+STU00345,F,Electrical Engineering,7.8,82.7,4.0,0,0,2.84
+STU01114,M,Electrical Engineering,2.6,71.1,2.43,1,0,2.09
+STU00174,M,Data Science,1.8,85.6,2.47,0,0,1.72
+STU01131,M,Business Administration,7.1,100.0,1.68,0,0,1.4
+STU00506,F,Business Administration,6.0,74.5,2.47,1,0,2.38
+STU01040,F,Economics,6.6,66.8,3.32,1,0,1.62
+STU00024,F,Data Science,3.8,67.4,3.25,1,1,2.15
+STU00161,F,Economics,7.0,78.8,2.9,1,1,1.95
+STU01034,F,Data Science,12.8,98.3,3.28,1,0,3.25
+STU00694,F,Electrical Engineering,8.4,78.0,3.09,0,0,1.68
+STU00585,M,Data Science,10.1,89.1,2.48,0,0,2.14
+STU00119,M,Computer Engineering,3.7,87.9,2.62,0,1,1.78
+STU00058,M,Mathematics,4.0,45.3,2.14,0,0,1.19
+STU00262,M,Electrical Engineering,4.6,82.5,2.86,1,0,2.35
+STU01116,F,Electrical Engineering,6.2,97.0,2.8,1,0,3.25
+STU00570,F,Computer Engineering,5.1,100.0,3.04,0,0,2.23
+STU00999,M,Business Administration,3.3,91.3,3.47,0,0,1.87
+STU00168,M,Business Administration,5.4,64.3,2.82,1,1,2.25
+STU00081,F,Data Science,5.3,82.0,2.79,1,1,2.46
+STU01167,F,Electrical Engineering,8.5,100.0,3.5,1,0,2.53
+STU00776,F,Electrical Engineering,7.1,92.1,2.15,0,0,2.43
+STU00738,F,Computer Engineering,8.5,76.8,2.9,0,0,1.83
+STU01031,F,Business Administration,3.1,66.9,3.46,0,0,2.15
+STU01078,M,Data Science,4.4,96.8,2.22,1,1,1.0
+STU00221,F,Data Science,5.5,90.6,3.49,0,1,2.43
+STU00770,M,Computer Engineering,19.0,62.3,2.44,1,1,2.43
+STU01145,M,Mathematics,7.4,81.8,2.41,1,0,1.8
+STU00410,F,Business Administration,15.7,86.4,2.28,1,1,2.25
+STU00864,F,Data Science,6.4,75.7,1.92,0,0,1.82
+STU00784,F,Mathematics,4.9,73.1,1.71,1,1,1.84
+STU00113,M,Electrical Engineering,2.0,96.7,2.68,0,1,1.77
+STU01035,M,Mathematics,3.4,77.1,2.98,0,1,1.7
+STU00435,F,Mathematics,3.8,71.0,3.84,1,0,2.32
+STU00083,M,Business Administration,9.8,86.3,3.66,1,0,3.47
+STU00092,M,Business Administration,2.5,92.5,2.55,0,1,1.84
+STU00301,M,Computer Engineering,9.1,64.7,3.32,1,1,2.32
+STU00019,M,Business Administration,8.6,68.5,3.67,1,0,2.43
+STU00558,F,Electrical Engineering,4.2,85.4,2.67,0,0,2.18
+STU00185,M,Data Science,4.5,85.6,2.69,1,1,2.21
+STU00227,M,Electrical Engineering,11.0,100.0,2.34,0,1,2.06
+STU00209,F,Business Administration,5.3,90.6,2.71,1,0,2.0
+STU00333,M,Business Administration,2.3,100.0,3.63,1,0,2.71
+STU00607,F,Computer Engineering,4.9,78.4,2.91,0,0,1.89
+STU00527,M,Business Administration,4.2,93.7,1.73,1,1,1.88
+STU00231,F,Economics,3.1,68.2,3.68,1,0,2.25
+STU00911,F,Electrical Engineering,0.9,80.2,3.05,0,0,2.22
+STU00508,M,Computer Engineering,3.3,72.2,3.03,1,1,1.75
+STU00428,M,Computer Engineering,3.3,67.3,3.4,0,0,2.66
+STU00314,F,Mathematics,5.3,82.0,2.79,0,1,1.8
+STU00080,M,Economics,3.1,94.5,1.93,0,0,2.41
+STU00790,F,Business Administration,12.6,77.3,2.48,1,0,2.73
+STU01106,M,Mathematics,7.2,100.0,2.73,1,0,2.28
+STU00617,F,Business Administration,10.1,70.6,1.96,0,1,1.89
+STU00551,F,Business Administration,5.0,82.7,2.45,0,1,1.81
+STU00671,F,Data Science,6.8,83.6,2.96,1,1,2.61
+STU01058,M,Mathematics,7.3,100.0,2.79,1,0,2.26
+STU00238,M,Business Administration,3.3,62.0,2.89,0,1,1.77
+STU00137,M,Electrical Engineering,10.7,77.4,3.66,0,0,2.28
+STU00025,F,Computer Engineering,5.7,74.8,3.37,1,1,2.54
+STU01064,M,Data Science,5.3,82.0,2.79,0,1,1.36
+STU01141,F,Business Administration,8.5,77.1,2.76,1,1,2.2
+STU00340,F,Computer Engineering,5.1,75.3,2.97,1,0,2.28
+STU00307,M,Economics,3.1,100.0,2.24,0,0,2.02
+STU00904,F,Electrical Engineering,8.9,72.3,1.65,0,0,1.5
+STU00922,M,Data Science,11.6,88.6,3.65,0,0,2.76
+STU00158,M,Data Science,1.0,97.1,2.08,0,1,1.82
+STU00523,M,Electrical Engineering,8.3,67.2,3.07,1,1,2.03
+STU00752,F,Electrical Engineering,2.2,68.0,3.23,0,1,1.88
+STU00471,M,Economics,9.4,89.2,2.02,0,0,1.61
+STU00017,F,Business Administration,2.3,84.9,1.94,0,0,1.89
+STU01195,F,Economics,6.6,86.0,2.37,0,0,2.64
+STU00067,F,Computer Engineering,9.1,82.2,3.37,0,0,2.77
+STU01158,M,Electrical Engineering,3.8,74.9,2.28,1,0,1.62
+STU01036,F,Business Administration,4.1,64.1,3.58,1,1,1.74
+STU00721,M,Electrical Engineering,2.9,72.8,2.17,0,0,1.6
+STU00112,F,Economics,1.9,89.6,2.03,0,1,1.56
+STU00725,F,Electrical Engineering,3.4,64.2,3.27,1,0,2.13
+STU00516,F,Mathematics,5.0,62.8,3.03,0,0,1.7
+STU00415,M,Mathematics,12.3,87.8,2.65,0,0,2.0
+STU01112,M,Economics,4.3,87.4,3.54,1,1,2.44
+STU00846,F,Economics,9.7,100.0,2.45,1,0,1.89
+STU00291,F,Business Administration,3.2,100.0,2.94,0,0,2.24
+STU00251,F,Data Science,3.6,76.2,1.42,0,0,1.17
+STU00605,M,Economics,5.7,64.8,3.75,1,1,1.83
+STU01025,M,Business Administration,4.6,69.6,2.38,0,0,1.86
+STU00380,F,Electrical Engineering,5.0,84.8,2.08,0,0,2.06
+STU01075,F,Data Science,4.5,60.2,1.87,0,1,1.51
+STU00967,F,Mathematics,2.7,86.0,2.82,0,0,2.39
+STU00367,F,Business Administration,1.8,63.0,2.65,1,1,1.83
+STU00402,F,Business Administration,9.6,100.0,3.32,1,1,2.33
+STU00678,F,Electrical Engineering,9.3,80.5,1.45,0,0,1.87
+STU01150,M,Economics,6.7,76.9,2.32,0,1,1.7
+STU00899,F,Electrical Engineering,8.2,69.5,2.39,0,1,1.55
+STU00535,M,Economics,4.3,65.3,1.79,1,0,1.87
+STU00951,F,Mathematics,3.6,86.2,2.75,1,0,2.09
+STU00979,F,Data Science,6.5,100.0,3.61,1,0,3.07
+STU00496,M,Electrical Engineering,6.3,80.1,2.82,0,1,1.74
+STU01102,F,Mathematics,6.6,68.9,2.93,1,1,1.87
+STU00459,F,Computer Engineering,3.2,62.3,2.28,1,0,1.21
+STU00211,F,Electrical Engineering,5.3,82.0,2.79,1,0,2.42
+STU00937,M,Computer Engineering,6.4,67.6,3.23,0,0,1.85
+STU00173,F,Electrical Engineering,2.2,95.6,2.84,0,0,1.97
+STU00192,F,Data Science,3.5,77.6,3.11,0,0,2.06
+STU00142,F,Economics,9.2,96.1,2.96,1,1,2.15
+STU00229,F,Business Administration,9.3,77.8,2.72,0,1,1.79
+STU00569,M,Electrical Engineering,5.5,86.5,2.22,1,1,2.35
+STU00758,M,Data Science,7.8,80.0,3.72,0,1,2.83
+STU00597,F,Mathematics,11.7,61.9,3.08,1,0,2.05
+STU00761,F,Electrical Engineering,16.1,56.9,2.07,0,0,1.98
+STU00154,F,Data Science,3.3,100.0,3.25,0,0,2.34
+STU00884,F,Data Science,3.3,72.2,2.59,0,0,1.52
+STU01018,M,Data Science,7.9,86.6,3.33,0,0,2.32
+STU00074,M,Mathematics,2.1,92.6,1.93,0,1,1.34
+STU00808,M,Computer Engineering,1.9,63.4,3.65,1,1,2.49
+STU00414,M,Electrical Engineering,3.8,84.4,1.99,1,0,1.9
+STU00930,F,Electrical Engineering,7.4,68.8,2.23,0,0,1.12
+STU00640,F,Data Science,1.8,86.7,3.17,1,0,1.81
+STU00233,M,Mathematics,4.2,76.9,3.18,1,0,2.07
+STU00020,F,Economics,4.8,77.9,2.27,1,0,1.99
+STU01120,M,Computer Engineering,6.2,100.0,3.27,0,1,2.07
+STU00029,F,Electrical Engineering,5.0,86.8,2.18,0,0,2.01
+STU00803,F,Mathematics,4.6,63.5,2.63,0,1,1.86
+STU00882,M,Business Administration,21.8,36.2,2.51,1,1,1.54
+STU01054,F,Economics,3.2,74.4,2.5,0,0,1.85
+STU00290,M,Economics,4.3,81.4,3.83,0,1,1.91
+STU00914,M,Data Science,4.7,81.5,2.03,1,0,1.85
+STU00114,F,Economics,6.4,93.3,2.78,0,0,2.36
+STU00465,F,Mathematics,3.9,92.8,2.66,1,0,1.88
+STU00889,M,Mathematics,0.7,83.4,2.45,0,0,1.62
+STU00167,F,Business Administration,13.9,100.0,4.0,1,0,3.21
+STU00407,M,Computer Engineering,3.0,91.5,3.04,0,0,2.27
+STU00320,M,Economics,5.0,94.2,2.46,1,0,2.29
+STU01166,M,Business Administration,7.8,96.0,2.33,0,1,2.11
+STU00897,M,Business Administration,5.7,67.4,3.32,0,1,2.22
+STU00704,M,Economics,4.4,67.7,2.35,0,0,1.32
+STU00920,F,Business Administration,6.6,86.6,1.75,0,1,1.85
+STU00566,F,Electrical Engineering,4.0,91.3,2.67,0,1,1.56
+STU00598,F,Business Administration,12.2,78.7,2.92,0,0,2.15
+STU00257,M,Business Administration,5.3,97.3,2.73,0,0,2.14
+STU00255,F,Data Science,14.3,61.4,1.83,1,1,1.77
+STU00727,M,Business Administration,11.8,83.2,2.68,0,0,2.27
+STU00705,F,Business Administration,2.1,94.8,1.97,1,0,1.71
+STU00987,F,Business Administration,1.7,100.0,2.54,0,0,2.05
+STU00497,F,Computer Engineering,4.8,79.1,2.05,0,0,1.9
+STU00898,F,Data Science,1.6,94.4,2.54,1,0,2.04
+STU00130,M,Economics,3.8,100.0,4.0,0,0,2.84
+STU00100,F,Mathematics,5.7,88.2,2.99,0,1,2.46
+STU00171,M,Computer Engineering,9.0,73.9,3.15,0,1,2.3
+STU00491,F,Mathematics,4.2,72.4,2.44,1,0,1.98
+STU01133,F,Computer Engineering,5.1,82.1,3.53,0,0,2.3
+STU00110,M,Data Science,9.0,89.6,2.69,1,0,2.52
+STU01020,F,Business Administration,3.2,74.0,2.71,1,0,2.24
+STU00712,F,Data Science,4.3,74.0,1.79,0,0,1.1
+STU00827,F,Business Administration,5.6,73.4,4.0,0,0,2.81
+STU01019,M,Electrical Engineering,4.9,80.4,3.11,1,1,2.06
+STU00960,M,Data Science,5.4,97.2,2.17,1,0,2.1
+STU00659,M,Computer Engineering,5.9,87.2,2.65,1,0,1.9
+STU00270,M,Electrical Engineering,3.5,95.8,2.55,1,0,2.15
+STU00063,F,Economics,4.2,82.7,2.25,0,0,1.41
+STU00393,F,Computer Engineering,2.1,58.1,2.48,1,1,1.77
+STU01094,F,Economics,4.8,99.5,2.42,0,0,2.18
+STU00892,M,Mathematics,2.8,93.6,2.38,0,0,2.27
+STU00543,F,Data Science,7.4,63.6,2.47,0,0,1.6
+STU00778,M,Electrical Engineering,3.7,86.0,3.49,0,0,2.1
+STU00169,F,Computer Engineering,6.5,78.9,3.38,0,0,2.48
+STU00036,M,Electrical Engineering,2.3,57.1,2.74,1,0,2.1
+STU00243,M,Electrical Engineering,7.1,100.0,3.58,0,1,2.32
+STU00082,M,Business Administration,1.4,74.5,3.05,1,0,2.19
+STU00945,F,Business Administration,0.9,71.1,2.91,0,0,1.77
+STU00860,M,Data Science,8.5,83.2,2.01,1,1,1.58
+STU00372,F,Computer Engineering,3.4,89.1,3.23,1,0,2.17
+STU01046,M,Computer Engineering,6.3,80.9,3.51,1,0,2.47
+STU00751,M,Mathematics,4.4,73.5,2.11,1,1,2.01
+STU00507,F,Data Science,4.9,33.9,3.24,0,0,1.39
+STU01037,M,Data Science,17.4,70.9,1.89,1,0,2.5
+STU00584,F,Data Science,4.1,67.7,2.89,1,0,1.69
+STU00511,M,Mathematics,3.6,72.4,3.9,1,0,2.37
+STU00177,F,Computer Engineering,3.0,77.8,3.46,0,1,2.09
+STU00276,F,Data Science,8.1,100.0,2.59,0,1,2.1
+STU00879,M,Computer Engineering,6.5,78.5,2.51,0,0,1.91
+STU00547,F,Mathematics,8.2,100.0,2.38,0,0,2.79
+STU00719,F,Business Administration,2.0,86.9,2.53,1,0,1.51
+STU00225,F,Mathematics,5.8,87.2,2.82,0,1,1.93
+STU00632,F,Data Science,1.7,63.1,3.38,1,0,2.0
+STU00216,M,Data Science,4.8,80.5,2.57,0,1,2.08
+STU01053,F,Economics,1.7,77.7,1.44,1,0,1.13
+STU00837,F,Computer Engineering,5.9,84.1,3.17,0,1,1.59
+STU00180,F,Mathematics,6.4,81.9,3.28,1,0,1.66
+STU00918,M,Economics,5.0,95.6,2.87,1,0,1.58
+STU00745,F,Business Administration,10.7,72.3,1.71,0,1,1.84
+STU00901,F,Data Science,3.1,58.6,3.54,0,0,2.23
+STU01154,F,Economics,5.3,82.0,2.79,0,0,1.96
+STU00677,M,Computer Engineering,11.8,72.9,2.65,1,0,2.84
+STU00638,M,Electrical Engineering,3.3,62.5,1.89,1,0,1.52
+STU00044,F,Computer Engineering,2.8,81.7,3.46,0,1,1.71
+STU00264,M,Economics,6.0,80.7,3.61,0,0,2.57
+STU01088,F,Computer Engineering,2.0,79.7,3.03,0,0,1.96
+STU01170,M,Mathematics,5.3,92.8,2.8,0,1,2.0
+STU00896,F,Electrical Engineering,15.1,76.8,2.55,1,0,2.24
+STU00850,M,Business Administration,4.3,72.1,2.71,0,1,1.89
+STU00094,M,Mathematics,5.0,91.1,3.35,1,1,1.85
+STU00175,M,Economics,3.5,94.1,2.23,1,0,1.34
+STU00398,M,Electrical Engineering,5.0,82.7,2.83,0,1,2.19
+STU00332,F,Electrical Engineering,7.0,79.8,3.69,0,0,2.08
+STU01056,M,Economics,5.1,79.0,2.93,0,0,2.6
+STU00031,M,Computer Engineering,4.2,82.4,3.17,1,1,1.96
+STU00744,M,Computer Engineering,2.3,86.9,3.12,1,1,1.99
+STU00374,M,Business Administration,3.5,98.5,2.84,0,0,1.74
+STU00408,F,Electrical Engineering,6.8,74.4,2.2,1,0,1.97
+STU00685,F,Electrical Engineering,5.2,78.4,2.77,1,0,2.1
+STU00418,M,Business Administration,12.5,97.1,2.24,1,0,2.33
+STU00144,F,Mathematics,2.7,54.7,3.06,1,0,1.96
+STU00265,F,Economics,10.2,100.0,3.18,0,0,2.6
+STU00986,F,Business Administration,6.5,74.2,2.69,1,0,2.13
+STU00014,M,Business Administration,4.1,100.0,2.37,0,0,2.36
+STU01118,F,Computer Engineering,2.4,92.6,2.56,0,1,1.61
+STU00528,M,Data Science,3.2,87.0,3.15,1,0,2.16
+STU00391,F,Economics,16.0,87.3,2.11,1,0,2.49
+STU00853,F,Electrical Engineering,6.4,83.4,2.33,1,1,2.27
+STU00729,M,Electrical Engineering,12.7,95.4,2.95,1,0,2.75
+STU00801,F,Computer Engineering,3.0,100.0,3.62,1,1,2.48
+STU00078,M,Data Science,3.8,43.7,3.36,0,0,1.7
+STU00603,F,Computer Engineering,9.5,100.0,3.58,0,0,2.63
+STU00387,M,Business Administration,7.4,98.7,3.07,0,0,2.73
+STU00183,F,Mathematics,1.6,60.6,3.15,0,0,1.89
+STU00835,F,Economics,3.8,84.5,2.49,1,0,1.9
+STU00190,F,Computer Engineering,5.3,82.0,2.79,1,0,1.81
+STU00364,M,Economics,4.5,95.6,2.76,0,0,2.7
+STU00868,M,Economics,2.4,80.8,1.79,0,0,1.31
+STU01159,M,Data Science,5.3,82.0,2.79,1,0,2.43
+STU00245,F,Electrical Engineering,6.4,93.8,2.44,1,0,2.46
+STU00881,F,Computer Engineering,6.9,53.6,3.43,1,0,1.96
+STU00274,M,Data Science,8.2,87.9,2.6,0,0,2.18
+STU00147,M,Electrical Engineering,1.4,73.9,1.44,1,0,1.16
+STU01129,F,Data Science,9.2,86.8,3.12,1,0,2.12
+STU00294,M,Computer Engineering,3.9,54.4,3.29,0,0,1.66
+STU00324,M,Electrical Engineering,12.8,76.4,3.43,0,0,2.51
+STU00799,F,Computer Engineering,4.7,79.1,2.72,1,0,2.47
+STU00539,M,Mathematics,4.7,73.5,3.73,1,0,2.48
+STU00676,F,Mathematics,14.0,100.0,2.96,1,1,2.44
+STU01134,M,Electrical Engineering,9.6,70.8,3.67,1,0,2.45
+STU00900,F,Electrical Engineering,3.2,87.4,3.35,0,0,2.13
+STU00768,F,Data Science,14.0,90.5,3.19,1,1,2.52
+STU00005,M,Computer Engineering,7.2,95.9,2.79,0,0,2.67
+STU00974,M,Mathematics,3.4,85.5,3.43,0,1,1.91
+STU01168,M,Computer Engineering,10.9,90.7,2.92,0,0,2.15
+STU00103,M,Economics,10.0,93.9,3.49,0,0,2.67
+STU00210,M,Computer Engineering,2.3,83.5,4.0,1,1,2.14
+STU00041,M,Electrical Engineering,4.7,81.9,3.34,1,1,1.95
+STU00377,F,Data Science,7.7,81.9,2.93,0,0,2.4
+STU00146,F,Computer Engineering,8.5,70.7,2.2,1,0,1.9
+STU01110,M,Data Science,1.9,80.6,3.05,1,0,2.18
+STU01089,F,Electrical Engineering,17.3,49.6,2.63,1,1,2.24
+STU00205,F,Electrical Engineering,3.7,73.3,1.93,1,1,1.25
+STU01068,F,Data Science,4.6,75.4,3.6,1,0,1.94
+STU00027,F,Data Science,1.9,73.8,1.78,0,0,1.42
+STU01104,M,Electrical Engineering,4.7,85.5,3.03,0,0,2.17
+STU01137,F,Economics,5.5,53.7,3.33,1,0,2.08
+STU00204,F,Computer Engineering,3.2,64.6,3.03,0,1,1.45
+STU00670,M,Electrical Engineering,2.0,81.1,2.69,0,0,1.91
+STU00624,F,Computer Engineering,9.4,85.1,2.88,0,0,2.3
+STU00411,F,Electrical Engineering,5.9,88.8,2.39,1,1,2.04
+STU00740,F,Data Science,4.3,70.2,4.0,1,0,2.17
+STU01032,M,Computer Engineering,7.9,66.6,3.5,0,0,1.83
+STU00073,M,Mathematics,5.6,100.0,3.41,0,0,2.44
+STU01142,M,Mathematics,16.1,79.0,3.89,1,0,3.38
+STU00998,M,Business Administration,4.3,94.9,2.06,0,0,2.02
+STU00206,F,Economics,0.9,71.7,2.71,0,1,1.68
+STU00867,M,Economics,7.1,72.5,2.79,1,0,2.46
