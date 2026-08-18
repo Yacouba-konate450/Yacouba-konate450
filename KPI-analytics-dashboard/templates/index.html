@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>KPI Analytics Dashboard</title>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif;
+    background: #F5F6F8;
+    color: #1A1A1A;
+    padding: 2rem;
+  }
+  .header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 1.5rem; }
+  .header h1 { font-size: 22px; font-weight: 600; }
+  .last-updated { font-size: 12px; color: #888; }
+  .live-dot {
+    display: inline-block; width: 8px; height: 8px; border-radius: 50%;
+    background: #1D9E75; margin-right: 6px; animation: pulse 1.5s infinite;
+  }
+  @keyframes pulse { 0%,100% { opacity: 1; } 50% { opacity: 0.3; } }
+
+  .kpi-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 16px; margin-bottom: 2rem; }
+  .kpi-card {
+    background: white; border-radius: 12px; padding: 1.2rem 1.4rem;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.06);
+  }
+  .kpi-label { font-size: 12px; color: #888; margin-bottom: 6px; text-transform: uppercase; letter-spacing: 0.04em; }
+  .kpi-value { font-size: 26px; font-weight: 600; color: #0F6E56; }
+
+  .chart-grid { display: grid; grid-template-columns: 2fr 1fr 1fr; gap: 16px; }
+  .chart-card {
+    background: white; border-radius: 12px; padding: 1.2rem 1.4rem;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.06);
+  }
+  .chart-title { font-size: 13px; font-weight: 600; margin-bottom: 12px; color: #333; }
+</style>
+</head>
+<body>
+
+  <div class="header">
+    <h1>📊 Real-Time KPI Dashboard</h1>
+    <div class="last-updated"><span class="live-dot"></span>Last updated: <span id="last-updated">—</span></div>
+  </div>
+
+  <div class="kpi-grid">
+    <div class="kpi-card">
+      <div class="kpi-label">Total Revenue (24h)</div>
+      <div class="kpi-value" id="kpi-revenue">—</div>
+    </div>
+    <div class="kpi-card">
+      <div class="kpi-label">Total Transactions</div>
+      <div class="kpi-value" id="kpi-transactions">—</div>
+    </div>
+    <div class="kpi-card">
+      <div class="kpi-label">Active Customers</div>
+      <div class="kpi-value" id="kpi-customers">—</div>
+    </div>
+    <div class="kpi-card">
+      <div class="kpi-label">Avg Transaction Value</div>
+      <div class="kpi-value" id="kpi-avg">—</div>
+    </div>
+  </div>
+
+  <div class="chart-grid">
+    <div class="chart-card">
+      <div class="chart-title">Revenue Trend (24h)</div>
+      <canvas id="trendChart" height="120"></canvas>
+    </div>
+    <div class="chart-card">
+      <div class="chart-title">Revenue by Region</div>
+      <canvas id="regionChart" height="160"></canvas>
+    </div>
+    <div class="chart-card">
+      <div class="chart-title">Revenue by Product</div>
+      <canvas id="productChart" height="160"></canvas>
+    </div>
+  </div>
+
+<script>
+let trendChart, regionChart, productChart;
+
+const palette = ["#0F6E56", "#1D9E75", "#63C29A", "#A7DEC3", "#D2EFE1"];
+
+function fmtCurrency(v) {
+  return new Intl.NumberFormat('en-US', { maximumFractionDigits: 0 }).format(v) + " XOF";
+}
+
+async function refreshDashboard() {
+  const res = await fetch('/api/kpis');
+  const data = await res.json();
+
+  document.getElementById('kpi-revenue').textContent = fmtCurrency(data.kpis.total_revenue);
+  document.getElementById('kpi-transactions').textContent = data.kpis.total_transactions;
+  document.getElementById('kpi-customers').textContent = data.kpis.active_customers;
+  document.getElementById('kpi-avg').textContent = fmtCurrency(data.kpis.avg_transaction_value);
+  document.getElementById('last-updated').textContent = data.last_updated;
+
+  // Trend line chart
+  if (!trendChart) {
+    trendChart = new Chart(document.getElementById('trendChart'), {
+      type: 'line',
+      data: {
+        labels: data.hourly_trend.labels,
+        datasets: [{
+          label: 'Revenue',
+          data: data.hourly_trend.values,
+          borderColor: '#0F6E56',
+          backgroundColor: 'rgba(15,110,86,0.08)',
+          fill: true,
+          tension: 0.3
+        }]
+      },
+      options: { plugins: { legend: { display: false } }, scales: { y: { beginAtZero: true } } }
+    });
+  } else {
+    trendChart.data.labels = data.hourly_trend.labels;
+    trendChart.data.datasets[0].data = data.hourly_trend.values;
+    trendChart.update();
+  }
+
+  // Region doughnut chart
+  const regionLabels = Object.keys(data.revenue_by_region);
+  const regionValues = Object.values(data.revenue_by_region);
+  if (!regionChart) {
+    regionChart = new Chart(document.getElementById('regionChart'), {
+      type: 'doughnut',
+      data: { labels: regionLabels, datasets: [{ data: regionValues, backgroundColor: palette }] },
+      options: { plugins: { legend: { position: 'bottom', labels: { boxWidth: 10, font: { size: 10 } } } } }
+    });
+  } else {
+    regionChart.data.labels = regionLabels;
+    regionChart.data.datasets[0].data = regionValues;
+    regionChart.update();
+  }
+
+  // Product bar chart
+  const productLabels = Object.keys(data.revenue_by_product);
+  const productValues = Object.values(data.revenue_by_product);
+  if (!productChart) {
+    productChart = new Chart(document.getElementById('productChart'), {
+      type: 'bar',
+      data: { labels: productLabels, datasets: [{ data: productValues, backgroundColor: '#0F6E56' }] },
+      options: {
+        plugins: { legend: { display: false } },
+        scales: { x: { ticks: { font: { size: 9 } } } },
+        indexAxis: 'y'
+      }
+    });
+  } else {
+    productChart.data.labels = productLabels;
+    productChart.data.datasets[0].data = productValues;
+    productChart.update();
+  }
+}
+
+refreshDashboard();
+setInterval(refreshDashboard, 5000); // refresh every 5 seconds
+</script>
+
+</body>
+</html>
