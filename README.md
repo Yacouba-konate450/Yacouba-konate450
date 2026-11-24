@@ -1,81 +1,34 @@
 # Hi 👋 I'm Yacouba Konaté
 
-🎓 Master's Student in Artificial Intelligence
+**Data Analyst | MSc student in Artificial Intelligence Engineering** (Gedik University, Istanbul) · Based in Bamako, Mali 🇲🇱
 
-I'm passionate about Artificial Intelligence, Data Science, Machine Learning, Time Series Forecasting and Cybersecurity.
-
-My goal is to build intelligent systems that solve real-world problems using AI and data.
-
----
-
-## 🚀 Currently Learning
-
-- Python
-- SQL
-- Machine Learning
-- Deep Learning
-- Time Series Forecasting
-- Data Visualization
-- Git & GitHub
-- Cybersecurity Fundamentals
+I turn messy real-world data into clear answers, using SQL for cleaning and modelling, Python for analysis and forecasting, and plain-language reports.
+My MSc thesis compares statistical and deep-learning models (SARIMAX, LSTM, LightGBM) for hourly electricity demand forecasting.
 
 ---
 
-## 🛠 Tech Stack
+## 📂 Featured projects
 
-**Programming**
-
-- Python
-- SQL
-- C#
-
-**Data Analytics**
-
-- Pandas
-- NumPy
-- Power BI
-- Tableau
-- Excel
-- Matplotlib
-- Seaborn
-
-**Machine Learning**
-
-- Scikit-learn
-- TensorFlow (Learning)
-
-**Tools**
-
-- Git
-- GitHub
-- VS Code
-- Jupyter Notebook
-- PyCharm 
+| Project | What it shows | Tools |
+|---|---|---|
+| [**Brazilian E-Commerce Analysis**](https://github.com/Yacouba-konate450/olist-ecommerce-analysis) | 100k real orders: SQL cleaning pipeline with quality checks, 8 EDA charts. Finding: late deliveries cut reviews from 4.3★ to 1.7★ | SQL (DuckDB), Python, pandas, Matplotlib |
+| [**Air Transport Forecasting – West Africa**](https://github.com/Yacouba-konate450/air-transport-forecast) | Forecasting air passenger traffic (World Bank/ICAO data), rolling-origin evaluation, data-quality diagnostics, COVID-19 gap vs trend | Python, statsmodels |
 
 ---
 
-## 🌱 Current Goals
+## 🛠 Skills
 
-- Complete my Master's Thesis
-- Build 30+ AI & Data Science Projects
-- Contribute to Open Source
-- Earn professional certifications
-- Become an AI Engineer & Data Scientist
+**Data analysis:** SQL (SQL Server, MySQL, SQLite, DuckDB) · Python (pandas, NumPy, Matplotlib) · Excel
+**Statistics & forecasting:** time series (SARIMA/SARIMAX, exponential smoothing), forecast evaluation (MAE, RMSE, MAPE), hypothesis testing
+**Machine learning:** scikit-learn, LightGBM, LSTM (TensorFlow/Keras)
+**Tools:** Git, GitHub, VS Code, Jupyter
 
----
-
-## 📊 GitHub Stats
-
-
+**Currently learning:** Power BI · Tableau · cybersecurity (SOC analysis, TryHackMe)
 
 ---
 
-## 📫 Connect with me
+## 📫 Contact
 
-📍 Istanbul, Türkiye 🇹🇷 | Bamako, Mali 🇲🇱
-
-LinkedIn:
-
-
-Email:
-sremy495@gmail.com | konatey007@gmail.com
+📍 Bamako, Mali 🇲🇱 · Istanbul, Türkiye 🇹🇷
+✉️ [konatey007@gmail.com]
+💼 [https://www.linkedin.com/in/yacouba-konate-530a4b1ab]
