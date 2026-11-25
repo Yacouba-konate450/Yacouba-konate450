@@ -18,12 +18,12 @@ My MSc thesis compares statistical and deep-learning models (SARIMAX, LSTM, Ligh
 
 ## 🛠 Skills
 
-**Data analysis:** SQL (SQL Server, MySQL, SQLite, DuckDB) · Python (pandas, NumPy, Matplotlib) · Excel
+**Data analysis:** SQL (SQL Server, MySQL, SQLite, DuckDB) · Python (pandas, NumPy, Matplotlib) · Excel . Power BI
 **Statistics & forecasting:** time series (SARIMA/SARIMAX, exponential smoothing), forecast evaluation (MAE, RMSE, MAPE), hypothesis testing
 **Machine learning:** scikit-learn, LightGBM, LSTM (TensorFlow/Keras)
 **Tools:** Git, GitHub, VS Code, Jupyter
 
-**Currently learning:** Power BI · Tableau · cybersecurity (SOC analysis, TryHackMe)
+**Currently learning:**Tableau · cybersecurity (SOC analysis, TryHackMe)
 
 ---
 
