@@ -13,7 +13,7 @@ My MSc thesis compares statistical and deep-learning models (SARIMAX, LSTM, Ligh
 |---|---|---|
 | [**Brazilian E-Commerce Analysis**](https://github.com/Yacouba-konate450/olist-ecommerce-analysis) | 100k real orders: SQL cleaning pipeline with quality checks, 8 EDA charts. Finding: late deliveries cut reviews from 4.3★ to 1.7★ | SQL (DuckDB), Python, pandas, Matplotlib |
 | [**Air Transport Forecasting – West Africa**](https://github.com/Yacouba-konate450/air-transport-forecast) | Forecasting air passenger traffic (World Bank/ICAO data), rolling-origin evaluation, data-quality diagnostics, COVID-19 gap vs trend | Python, statsmodels |
-
+| [**Telecom Customer Churn**](https://github.com/Yacouba-konate450/telco-churn-analysis) | 7,043 customers: SQL star schema, Python EDA, 2-page Power BI dashboard with DAX. Finding: one segment drives 55% of lost revenue; call list of 617 at-risk customers | SQL, Python, Power BI, DAX |
 ---
 
 ## 🛠 Skills
